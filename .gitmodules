@@ -79,3 +79,27 @@
 [submodule "plugins/discourse-telegram-notifications"]
 	path = plugins/discourse-telegram-notifications
 	url = https://github.com/davidtaylorhq/discourse-telegram-notifications
+[submodule "plugins/discourse-user-feedback"]
+	path = plugins/discourse-user-feedback
+	url = https://github.com/JafethDC/discourse-user-feedback
+[submodule "plugins/discourse-forcemoderation"]
+	path = plugins/discourse-forcemoderation
+	url = https://github.com/leodavidson/discourse-forcemoderation
+[submodule "plugins/discourse-overwatch-hero-icons"]
+	path = plugins/discourse-overwatch-hero-icons
+	url = https://github.com/critcola/discourse-overwatch-hero-icons.git
+[submodule "plugins/discourse-signatures"]
+	path = plugins/discourse-signatures
+	url = https://github.com/xfalcox/discourse-signatures
+[submodule "plugins/discourse-push-notifications"]
+	path = plugins/discourse-push-notifications
+	url = https://github.com/discourse/discourse-push-notifications
+[submodule "plugins/discourse-timeline"]
+	path = plugins/discourse-timeline
+	url = https://github.com/VinkasHQ/discourse-timeline
+[submodule "plugins/discourse-guest-gate"]
+	path = plugins/discourse-guest-gate
+	url = https://github.com/jgujgu/discourse-guest-gate
+[submodule "plugins/discourse-media-overlay"]
+	path = plugins/discourse-media-overlay
+	url = https://github.com/davidtaylorhq/discourse-media-overlay
