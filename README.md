@@ -38,3 +38,7 @@ git submodule update --recursive --remote
 ```
 
 If you would like to speed up our update process, submit a PR with updated submodules
+
+### Update from meta script
+
+Add the root of the repo we have the `update_from_meta.rb` script, this can be used to pull all the github repos in the #plugins category in meta.
