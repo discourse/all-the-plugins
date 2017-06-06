@@ -11,8 +11,7 @@ Occationally we need to deperecate extensibility interfaces or migrate to newer 
 ```
 git clone https://github.com/discourse/all-the-plugins.git
 cd all-the-plugins
-git submodule init
-git submodule update
+git submodule update --init --recursive
 ```
 
 ### Contributing your own plugin
@@ -29,3 +28,13 @@ Ensure the submodule is cloned into the `plugins` directory. Also, please make s
 
 https://meta.discourse.org/c/plugin
 
+
+### Updating a plugin
+
+Once in a while we will run
+
+```
+git submodule update --recursive --remote
+```
+
+If you would like to speed up our update process, submit a PR with updated submodules
