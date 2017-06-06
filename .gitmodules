@@ -1,0 +1,63 @@
+[submodule "plugins/discourse-ratings"]
+	path = plugins/discourse-ratings
+	url = https://github.com/angusmcleod/discourse-ratings
+[submodule "plugins/discourse-calender"]
+	path = plugins/discourse-calender
+	url = https://github.com/tcreativo/plugin_discourse_calendar
+[submodule "plugins/discourse-doi-resolver"]
+	path = plugins/discourse-doi-resolver
+	url = https://github.com/pfaffman/discourse-doi-resolver
+[submodule "plugins/discourse-spoiler-alert"]
+	path = plugins/discourse-spoiler-alert
+	url = https://github.com/discourse/discourse-spoiler-alert.git
+[submodule "plugins/discourse-akismet"]
+	path = plugins/discourse-akismet
+	url = https://github.com/discourse/discourse-akismet.git
+[submodule "plugins/discourse-solved"]
+	path = plugins/discourse-solved
+	url = https://github.com/discourse/discourse-solved.git
+[submodule "plugins/discourse-canned-replies"]
+	path = plugins/discourse-canned-replies
+	url = https://github.com/discourse/discourse-canned-replies.git
+[submodule "plugins/discourse-slack-official"]
+	path = plugins/discourse-slack-official
+	url = https://github.com/discourse/discourse-slack-official.git
+[submodule "plugins/discourse-backup-uploads-to-s3"]
+	path = plugins/discourse-backup-uploads-to-s3
+	url = https://github.com/discourse/discourse-backup-uploads-to-s3.git
+[submodule "plugins/discourse-cakeday"]
+	path = plugins/discourse-cakeday
+	url = https://github.com/discourse/discourse-cakeday.git
+[submodule "plugins/discourse-affiliate"]
+	path = plugins/discourse-affiliate
+	url = https://github.com/discourse/discourse-affiliate.git
+[submodule "plugins/discourse-staff-notes"]
+	path = plugins/discourse-staff-notes
+	url = https://github.com/discourse/discourse-staff-notes.git
+[submodule "plugins/discourse-adplugin"]
+	path = plugins/discourse-adplugin
+	url = https://github.com/discourse/discourse-adplugin.git
+[submodule "plugins/discourse-data-explorer.git"]
+	path = plugins/discourse-data-explorer.git
+	url = https://github.com/discourse/discourse-data-explorer.git
+[submodule "plugins/discourse-oauth2-basic"]
+	path = plugins/discourse-oauth2-basic
+	url = https://github.com/discourse/discourse-oauth2-basic.git
+[submodule "plugins/discourse-plugin-linkedin-auth"]
+	path = plugins/discourse-plugin-linkedin-auth
+	url = https://github.com/discourse/discourse-plugin-linkedin-auth.git
+[submodule "plugins/discourse-plugin-office365-auth"]
+	path = plugins/discourse-plugin-office365-auth
+	url = https://github.com/discourse/discourse-plugin-office365-auth.git
+[submodule "plugins/discourse-voting"]
+	path = plugins/discourse-voting
+	url = https://github.com/discourse/discourse-voting
+[submodule "plugins/discourse-patreon"]
+	path = plugins/discourse-patreon
+	url = https://github.com/discourse/discourse-patreon.git
+[submodule "plugins/discourse-assign"]
+	path = plugins/discourse-assign
+	url = https://github.com/discourse/discourse-assign.git
+[submodule "plugins/discourse-adsense"]
+	path = plugins/discourse-adsense
+	url = https://github.com/discoursehosting/discourse-adsense
