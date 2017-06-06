@@ -67,3 +67,15 @@
 [submodule "plugins/retort"]
 	path = plugins/retort
 	url = http://www.github.com/gdpelican/retort.git
+[submodule "plugins/discourse-omniauth-gitlab"]
+	path = plugins/discourse-omniauth-gitlab
+	url = http://gitlab.com/gitlab-org/discourse-omniauth-gitlab.git
+[submodule "plugins/discourse-topic-previews"]
+	path = plugins/discourse-topic-previews
+	url = https://github.com/angusmcleod/discourse-topic-previews
+[submodule "plugins/discourse-steam-login"]
+	path = plugins/discourse-steam-login
+	url = https://github.com/discourse/discourse-steam-login
+[submodule "plugins/discourse-telegram-notifications"]
+	path = plugins/discourse-telegram-notifications
+	url = https://github.com/davidtaylorhq/discourse-telegram-notifications
