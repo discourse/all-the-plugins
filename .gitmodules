@@ -66,7 +66,7 @@
 	url = https://github.com/discourse/discourse-translator.git
 [submodule "plugins/retort"]
 	path = plugins/retort
-	url = http://www.github.com/gdpelican/retort.git
+	url = http://github.com/gdpelican/retort.git
 [submodule "plugins/discourse-omniauth-gitlab"]
 	path = plugins/discourse-omniauth-gitlab
 	url = http://gitlab.com/gitlab-org/discourse-omniauth-gitlab.git
@@ -103,3 +103,270 @@
 [submodule "plugins/discourse-media-overlay"]
 	path = plugins/discourse-media-overlay
 	url = https://github.com/davidtaylorhq/discourse-media-overlay
+[submodule "plugins/abbreviation-discourse-plugin"]
+	path = plugins/abbreviation-discourse-plugin
+	url = https://github.com/PoloGT/abbreviation-discourse-plugin.git
+[submodule "plugins/discourse-raptorize"]
+	path = plugins/discourse-raptorize
+	url = https://github.com/Cosban/discourse-raptorize
+[submodule "plugins/trout_emoji"]
+	path = plugins/trout_emoji
+	url = https://github.com/eviltrout/trout_emoji
+[submodule "plugins/discourse-nationalflags"]
+	path = plugins/discourse-nationalflags
+	url = https://github.com/Ebsy/discourse-nationalflags
+[submodule "plugins/discourse-qa"]
+	path = plugins/discourse-qa
+	url = https://github.com/angusmcleod/discourse-qa
+[submodule "plugins/discourse-quick-messages"]
+	path = plugins/discourse-quick-messages
+	url = https://github.com/angusmcleod/discourse-quick-messages
+[submodule "plugins/discourse-mathjax"]
+	path = plugins/discourse-mathjax
+	url = https://github.com/kasperpeulen/discourse-mathjax
+[submodule "plugins/babble"]
+	path = plugins/babble
+	url = http://www.github.com/gdpelican/babble
+[submodule "plugins/discourse-formatting-toolbar"]
+	path = plugins/discourse-formatting-toolbar
+	url = https://github.com/iunctis/discourse-formatting-toolbar
+[submodule "plugins/discourse-sidebar-blocks"]
+	path = plugins/discourse-sidebar-blocks
+	url = https://github.com/pmusaraj/discourse-sidebar-blocks
+[submodule "plugins/discourse-wildapricot-auth"]
+	path = plugins/discourse-wildapricot-auth
+	url = https://github.com/LeoMcA/discourse-wildapricot-auth
+[submodule "plugins/discourse-whos-online"]
+	path = plugins/discourse-whos-online
+	url = https://github.com/davidtaylorhq/discourse-whos-online
+[submodule "plugins/discourse-sitemap"]
+	path = plugins/discourse-sitemap
+	url = https://github.com/discoursehosting/discourse-sitemap
+[submodule "plugins/discourse-donations"]
+	path = plugins/discourse-donations
+	url = https://github.com/choiceaustralia/discourse-donations
+[submodule "plugins/discourse-layouts"]
+	path = plugins/discourse-layouts
+	url = https://github.com/angusmcleod/discourse-layouts
+[submodule "plugins/discourse-facebook-onebox"]
+	path = plugins/discourse-facebook-onebox
+	url = https://github.com/vinkas0/discourse-facebook-onebox
+[submodule "plugins/discourse-image-gallery"]
+	path = plugins/discourse-image-gallery
+	url = https://github.com/crob611/discourse-image-gallery
+[submodule "plugins/discourse-header-search"]
+	path = plugins/discourse-header-search
+	url = https://github.com/angusmcleod/discourse-header-search
+[submodule "plugins/discourse-content_lockers"]
+	path = plugins/discourse-content_lockers
+	url = https://github.com/VinkasHQ/discourse-content_lockers
+[submodule "plugins/force-signin"]
+	path = plugins/force-signin
+	url = https://github.com/netdeamon/force-signin
+[submodule "plugins/Zendesk-Plugin"]
+	path = plugins/Zendesk-Plugin
+	url = https://github.com/shivpkumar/Zendesk-Plugin
+[submodule "plugins/discourse-migratepassword"]
+	path = plugins/discourse-migratepassword
+	url = https://github.com/discoursehosting/discourse-migratepassword/
+[submodule "plugins/discourse-onesignal"]
+	path = plugins/discourse-onesignal
+	url = https://github.com/pmusaraj/discourse-onesignal/
+[submodule "plugins/discourse-plugin-imgflip"]
+	path = plugins/discourse-plugin-imgflip
+	url = https://github.com/cpradio/discourse-plugin-imgflip
+[submodule "plugins/discourse-konami"]
+	path = plugins/discourse-konami
+	url = https://github.com/cfstras/discourse-konami
+[submodule "plugins/discourse-presence"]
+	path = plugins/discourse-presence
+	url = https://github.com/discourse/discourse-presence
+[submodule "plugins/discourse-post-abbreviations"]
+	path = plugins/discourse-post-abbreviations
+	url = https://github.com/critcola/discourse-post-abbreviations
+[submodule "plugins/discourse-expose-emails-in"]
+	path = plugins/discourse-expose-emails-in
+	url = https://github.com/mozilla/discourse-expose-emails-in
+[submodule "plugins/discourse-nntp-bridge"]
+	path = plugins/discourse-nntp-bridge
+	url = https://github.com/sman591/discourse-nntp-bridge
+[submodule "plugins/discourse-yuml"]
+	path = plugins/discourse-yuml
+	url = https://github.com/sekhat/discourse-yuml
+[submodule "plugins/discourse-hot-topics"]
+	path = plugins/discourse-hot-topics
+	url = https://github.com/danskdynamit/discourse-hot-topics
+[submodule "plugins/discourse-backups-to-dropbox"]
+	path = plugins/discourse-backups-to-dropbox
+	url = https://github.com/xfalcox/discourse-backups-to-dropbox
+[submodule "plugins/discourse-ubuntu-sso"]
+	path = plugins/discourse-ubuntu-sso
+	url = https://github.com/marcoceppi/discourse-ubuntu-sso
+[submodule "plugins/dl-license-keys"]
+	path = plugins/dl-license-keys
+	url = https://github.com/discourse-league/dl-license-keys
+[submodule "plugins/discourse-branding"]
+	path = plugins/discourse-branding
+	url = https://github.com/vinkas0/discourse-branding
+[submodule "plugins/discourse-blocks"]
+	path = plugins/discourse-blocks
+	url = https://github.com/jgujgu/discourse-blocks
+[submodule "plugins/discourse-reset-bump"]
+	path = plugins/discourse-reset-bump
+	url = https://github.com/LeoDavidson/discourse-reset-bump
+[submodule "plugins/garmin_connect_onebox"]
+	path = plugins/garmin_connect_onebox
+	url = https://github.com/mrloop/garmin_connect_onebox
+[submodule "plugins/discourse-plugin-outlet-locations"]
+	path = plugins/discourse-plugin-outlet-locations
+	url = https://github.com/Mittineague/discourse-plugin-outlet-locations.git
+[submodule "plugins/discourse-ldap-auth"]
+	path = plugins/discourse-ldap-auth
+	url = https://github.com/punitkrjain/discourse-ldap-auth
+[submodule "plugins/discourse-plugin-replygif"]
+	path = plugins/discourse-plugin-replygif
+	url = https://github.com/ligthyear/discourse-plugin-replygif
+[submodule "plugins/discourse-playstv-onebox"]
+	path = plugins/discourse-playstv-onebox
+	url = https://github.com/critcola/discourse-playstv-onebox
+[submodule "plugins/discourse-clyp-onebox"]
+	path = plugins/discourse-clyp-onebox
+	url = https://github.com/critcola/discourse-clyp-onebox
+[submodule "plugins/discourse-custom-topic-button"]
+	path = plugins/discourse-custom-topic-button
+	url = https://github.com/discourse/discourse-custom-topic-button
+[submodule "plugins/discourse-basic-links"]
+	path = plugins/discourse-basic-links
+	url = https://github.com/joebuhlig/discourse-basic-links
+[submodule "plugins/discourse-admin-statistics-digest"]
+	path = plugins/discourse-admin-statistics-digest
+	url = https://github.com/discourse/discourse-admin-statistics-digest
+[submodule "plugins/plugin_discourse_dynamic_sidebar"]
+	path = plugins/plugin_discourse_dynamic_sidebar
+	url = https://github.com/tcreativo/plugin_discourse_dynamic_sidebar
+[submodule "plugins/discourse-plugin-checklist"]
+	path = plugins/discourse-plugin-checklist
+	url = https://github.com/ligthyear/discourse-plugin-checklist
+[submodule "plugins/composer-help-button"]
+	path = plugins/composer-help-button
+	url = https://github.com/cpradio/composer-help-button
+[submodule "plugins/discourse-topic-group-button"]
+	path = plugins/discourse-topic-group-button
+	url = https://github.com/discourse/discourse-topic-group-button
+[submodule "plugins/discourse-anonymous-categories"]
+	path = plugins/discourse-anonymous-categories
+	url = https://github.com/JaredReisinger/discourse-anonymous-categories
+[submodule "plugins/discourse-plugin"]
+	path = plugins/discourse-plugin
+	url = http://github.com/auth0/discourse-plugin
+[submodule "plugins/docker_manager"]
+	path = plugins/docker_manager
+	url = https://github.com/discourse/docker_manager
+[submodule "plugins/browser_history"]
+	path = plugins/browser_history
+	url = https://github.com/discourse/browser_history
+[submodule "plugins/discourse-slackdoor"]
+	path = plugins/discourse-slackdoor
+	url = https://github.com/mcwumbly/discourse-slackdoor
+[submodule "plugins/modal-window"]
+	path = plugins/modal-window
+	url = https://github.com/AlexRabolin/modal-window.git
+[submodule "plugins/discourse-slack-plugin"]
+	path = plugins/discourse-slack-plugin
+	url = https://github.com/bernd/discourse-slack-plugin
+[submodule "plugins/discourse-links-category"]
+	path = plugins/discourse-links-category
+	url = https://github.com/danskdynamit/discourse-links-category
+[submodule "plugins/auto-archive"]
+	path = plugins/auto-archive
+	url = https://github.com/eriko/auto-archive
+[submodule "plugins/wechat_qrconnect"]
+	path = plugins/wechat_qrconnect
+	url = https://github.com/mooosu/wechat_qrconnect
+[submodule "plugins/discourse-username-localization"]
+	path = plugins/discourse-username-localization
+	url = https://github.com/zh99998/discourse-username-localization
+[submodule "plugins/discourse-bbcode-lock"]
+	path = plugins/discourse-bbcode-lock
+	url = https://github.com/vinkas0/discourse-bbcode-lock
+[submodule "plugins/Discourse-Webhooks"]
+	path = plugins/Discourse-Webhooks
+	url = https://github.com/rcfox/Discourse-Webhooks
+[submodule "plugins/discourse-plugin-code-fences-buttons"]
+	path = plugins/discourse-plugin-code-fences-buttons
+	url = https://github.com/ThomDietrich/discourse-plugin-code-fences-buttons
+[submodule "plugins/discourse-kinder-guardian"]
+	path = plugins/discourse-kinder-guardian
+	url = https://github.com/Mittineague/discourse-kinder-guardian
+[submodule "plugins/discourse-plugin-featured-image"]
+	path = plugins/discourse-plugin-featured-image
+	url = https://github.com/startsat60/discourse-plugin-featured-image
+[submodule "plugins/discourse-blogger-plugin"]
+	path = plugins/discourse-blogger-plugin
+	url = https://github.com/kcoop/discourse-blogger-plugin
+[submodule "plugins/trust-level-groups"]
+	path = plugins/trust-level-groups
+	url = https://github.com/BeastNet/trust-level-groups
+[submodule "plugins/steamuser-onebox"]
+	path = plugins/steamuser-onebox
+	url = https://github.com/MiguelAngelLV/steamuser-onebox
+[submodule "plugins/etherpad-lite"]
+	path = plugins/etherpad-lite
+	url = https://github.com/ether/etherpad-lite/
+[submodule "plugins/discourse-plugin-pm-button"]
+	path = plugins/discourse-plugin-pm-button
+	url = https://github.com/ligthyear/discourse-plugin-pm-button
+[submodule "plugins/discourse-awesome-bbcodes"]
+	path = plugins/discourse-awesome-bbcodes
+	url = https://github.com/rux-pizza/discourse-awesome-bbcodes
+[submodule "plugins/algoliasearch-discourse"]
+	path = plugins/algoliasearch-discourse
+	url = https://github.com/mlamarque/algoliasearch-discourse
+[submodule "plugins/yammer-connect"]
+	path = plugins/yammer-connect
+	url = https://github.com/mlamarque/yammer-connect
+[submodule "plugins/plugin_discourse_spreadsheet"]
+	path = plugins/plugin_discourse_spreadsheet
+	url = https://github.com/tcreativo/plugin_discourse_spreadsheet
+[submodule "plugins/discourse-chinese-localization-pack"]
+	path = plugins/discourse-chinese-localization-pack
+	url = https://github.com/fantasticfears/discourse-chinese-localization-pack
+[submodule "plugins/discourse-plugin-autoplay"]
+	path = plugins/discourse-plugin-autoplay
+	url = https://github.com/dtchau/discourse-plugin-autoplay
+[submodule "plugins/discourse-mailgun"]
+	path = plugins/discourse-mailgun
+	url = https://github.com/andreabedini/discourse-mailgun
+[submodule "plugins/discourse-chargebee"]
+	path = plugins/discourse-chargebee
+	url = https://github.com/liliakai/discourse-chargebee
+[submodule "plugins/changetip-discourse"]
+	path = plugins/changetip-discourse
+	url = https://github.com/jsorchik/changetip-discourse
+[submodule "plugins/discourse-persona"]
+	path = plugins/discourse-persona
+	url = https://github.com/vikhyat/discourse-persona
+[submodule "plugins/reply-by-email-TL"]
+	path = plugins/reply-by-email-TL
+	url = https://github.com/JSey/reply-by-email-TL
+[submodule "plugins/blog"]
+	path = plugins/blog
+	url = https://github.com/samsaffron/blog
+[submodule "plugins/discourse-details"]
+	path = plugins/discourse-details
+	url = https://github.com/discourse/discourse-details
+[submodule "plugins/wp-discourse-topic-integration"]
+	path = plugins/wp-discourse-topic-integration
+	url = https://github.com/matthieu-lapeyre/wp-discourse-topic-integration/
+[submodule "plugins/marvelapp_onebox"]
+	path = plugins/marvelapp_onebox
+	url = https://github.com/naveed-ahmad/marvelapp_onebox
+[submodule "plugins/discourse-plugin-shared-edit"]
+	path = plugins/discourse-plugin-shared-edit
+	url = https://github.com/ligthyear/discourse-plugin-shared-edit
+[submodule "plugins/vb_emoji"]
+	path = plugins/vb_emoji
+	url = https://github.com/cpradio/vb_emoji
+[submodule "plugins/discourse-plugin-permalink"]
+	path = plugins/discourse-plugin-permalink
+	url = https://github.com/ligthyear/discourse-plugin-permalink
