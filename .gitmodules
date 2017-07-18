@@ -379,3 +379,6 @@
 [submodule "plugins/discourse-math"]
 	path = plugins/discourse-math
 	url = https://github.com/discourse/discourse-math
+[submodule "plugins/discourse-github-linkback"]
+	path = plugins/discourse-github-linkback
+	url = https://github.com/discourse/discourse-github-linkback
