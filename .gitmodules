@@ -385,3 +385,6 @@
 [submodule "plugins/discourse-styleguide"]
 	path = plugins/discourse-styleguide
 	url = https://github.com/discourse/discourse-styleguide.git
+[submodule "plugins/discourse-saml"]
+	path = plugins/discourse-saml
+	url = https://github.com/discourse/discourse-saml.git
