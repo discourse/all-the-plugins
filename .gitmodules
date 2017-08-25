@@ -394,3 +394,6 @@
 [submodule "plugins/discourse-atom-receiver"]
 	path = plugins/discourse-atom-receiver
 	url = https://github.com/discourse/discourse-atom-receiver
+[submodule "plugins/discourse-chat-integration"]
+	path = plugins/discourse-chat-integration
+	url = https://github.com/discourse/discourse-chat-integration.git
