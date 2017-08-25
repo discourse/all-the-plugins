@@ -388,3 +388,6 @@
 [submodule "plugins/discourse-saml"]
 	path = plugins/discourse-saml
 	url = https://github.com/discourse/discourse-saml.git
+[submodule "plugins/discourse-group-tracker"]
+	path = plugins/discourse-group-tracker
+	url = https://github.com/discourse/discourse-group-tracker
