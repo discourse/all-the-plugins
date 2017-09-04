@@ -397,3 +397,6 @@
 [submodule "plugins/discourse-chat-integration"]
 	path = plugins/discourse-chat-integration
 	url = https://github.com/discourse/discourse-chat-integration.git
+[submodule "plugins/discourse-tooltips"]
+	path = plugins/discourse-tooltips
+	url = https://github.com/discourse/discourse-tooltips.git
