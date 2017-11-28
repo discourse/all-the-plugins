@@ -400,3 +400,6 @@
 [submodule "plugins/discourse-tooltips"]
 	path = plugins/discourse-tooltips
 	url = https://github.com/discourse/discourse-tooltips.git
+[submodule "plugins/discourse-unhandled-tagger"]
+	path = plugins/discourse-unhandled-tagger
+	url = git@github.com:discourse/discourse-unhandled-tagger.git
