@@ -403,3 +403,9 @@
 [submodule "plugins/discourse-unhandled-tagger"]
 	path = plugins/discourse-unhandled-tagger
 	url = git@github.com:discourse/discourse-unhandled-tagger.git
+[submodule "discourse-characters-required"]
+	path = discourse-characters-required
+	url = https://github.com/discourse/discourse-characters-required.git
+[submodule "plugins/discourse-characters-required"]
+	path = plugins/discourse-characters-required
+	url = https://github.com/discourse/discourse-characters-required.git
