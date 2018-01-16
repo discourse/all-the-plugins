@@ -409,3 +409,6 @@
 [submodule "plugins/discourse-characters-required"]
 	path = plugins/discourse-characters-required
 	url = https://github.com/discourse/discourse-characters-required.git
+[submodule "plugins/discourse-no-bump"]
+	path = plugins/discourse-no-bump
+	url = https://github.com/discourse/discourse-no-bump.git
