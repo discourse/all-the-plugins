@@ -412,3 +412,105 @@
 [submodule "plugins/discourse-no-bump"]
 	path = plugins/discourse-no-bump
 	url = https://github.com/discourse/discourse-no-bump.git
+[submodule "plugins/discourse-events"]
+	path = plugins/discourse-events
+	url = https://github.com/angusmcleod/discourse-events
+[submodule "plugins/discourse-custom-wizard"]
+	path = plugins/discourse-custom-wizard
+	url = https://github.com/angusmcleod/discourse-custom-wizard
+[submodule "plugins/discourse-saved-searches"]
+	path = plugins/discourse-saved-searches
+	url = https://github.com/discourse/discourse-saved-searches
+[submodule "plugins/discourse-category-moderator-lite"]
+	path = plugins/discourse-category-moderator-lite
+	url = https://github.com/angusmcleod/discourse-category-moderator-lite
+[submodule "plugins/discourse-azure-blob-storage"]
+	path = plugins/discourse-azure-blob-storage
+	url = https://github.com/majakomel/discourse-azure-blob-storage
+[submodule "plugins/discourse-question-answer"]
+	path = plugins/discourse-question-answer
+	url = https://github.com/angusmcleod/discourse-question-answer
+[submodule "plugins/discourse-etiquette"]
+	path = plugins/discourse-etiquette
+	url = https://github.com/fantasticfears/discourse-etiquette
+[submodule "plugins/discourse-algolia"]
+	path = plugins/discourse-algolia
+	url = https://github.com/algolia/discourse-algolia
+[submodule "plugins/discourse-locations"]
+	path = plugins/discourse-locations
+	url = https://github.com/angusmcleod/discourse-locations
+[submodule "plugins/discourse-mlm-daily-summary"]
+	path = plugins/discourse-mlm-daily-summary
+	url = https://github.com/joebuhlig/discourse-mlm-daily-summary
+[submodule "plugins/discourse-sync-base"]
+	path = plugins/discourse-sync-base
+	url = https://github.com/berlindiamonds/discourse-sync-base
+[submodule "plugins/discourse-response-bot"]
+	path = plugins/discourse-response-bot
+	url = https://github.com/bolariin/discourse-response-bot
+[submodule "plugins/dl-static-pages"]
+	path = plugins/dl-static-pages
+	url = https://github.com/discourse-league/dl-static-pages
+[submodule "plugins/discourse-opencollective-integration"]
+	path = plugins/discourse-opencollective-integration
+	url = https://github.com/sudaraka94/discourse-opencollective-integration
+[submodule "plugins/preventing-malicious-linking-plugin"]
+	path = plugins/preventing-malicious-linking-plugin
+	url = https://github.com/sudaraka94/preventing-malicious-linking-plugin
+[submodule "plugins/discourse-auto-suspend"]
+	path = plugins/discourse-auto-suspend
+	url = https://github.com/davidtaylorhq/discourse-auto-suspend
+[submodule "plugins/discourse-elections"]
+	path = plugins/discourse-elections
+	url = https://github.com/angusmcleod/discourse-elections
+[submodule "plugins/discourse-prometheus"]
+	path = plugins/discourse-prometheus
+	url = https://github.com/discourse/discourse-prometheus
+[submodule "plugins/discourse-topic-trade-buttons"]
+	path = plugins/discourse-topic-trade-buttons
+	url = https://github.com/jannolii/discourse-topic-trade-buttons
+[submodule "plugins/discourse-category-lockdown"]
+	path = plugins/discourse-category-lockdown
+	url = https://github.com/davidtaylorhq/discourse-category-lockdown
+[submodule "plugins/discourse-simple-unread"]
+	path = plugins/discourse-simple-unread
+	url = https://github.com/davidtaylorhq/discourse-simple-unread
+[submodule "plugins/discourse-dev-login"]
+	path = plugins/discourse-dev-login
+	url = https://github.com/davidtaylorhq/discourse-dev-login
+[submodule "plugins/discourse-zendesk-plugin"]
+	path = plugins/discourse-zendesk-plugin
+	url = https://github.com/discourse/discourse-zendesk-plugin
+[submodule "plugins/discourse-custom-activity-summary-template"]
+	path = plugins/discourse-custom-activity-summary-template
+	url = https://github.com/muhlisbc/discourse-custom-activity-summary-template
+[submodule "plugins/discourse-googlebooks"]
+	path = plugins/discourse-googlebooks
+	url = https://github.com/netdeamon/discourse-googlebooks
+[submodule "plugins/discourse-plugin-discord-auth"]
+	path = plugins/discourse-plugin-discord-auth
+	url = https://github.com/featheredtoast/discourse-plugin-discord-auth
+[submodule "plugins/discourse-menu-icon"]
+	path = plugins/discourse-menu-icon
+	url = https://github.com/VonLion/discourse-menu-icon
+[submodule "plugins/discourse-bbcode"]
+	path = plugins/discourse-bbcode
+	url = https://github.com/discourse/discourse-bbcode
+[submodule "plugins/discourse-avatar-name-first-letter"]
+	path = plugins/discourse-avatar-name-first-letter
+	url = https://github.com/pfaffman/discourse-avatar-name-first-letter
+[submodule "plugins/discourse-plugin-composer-help-button"]
+	path = plugins/discourse-plugin-composer-help-button
+	url = https://github.com/cpradio/discourse-plugin-composer-help-button
+[submodule "plugins/discourse-invite-tokens"]
+	path = plugins/discourse-invite-tokens
+	url = https://github.com/discourse/discourse-invite-tokens
+[submodule "plugins/discourse-plugin-profile-notes"]
+	path = plugins/discourse-plugin-profile-notes
+	url = https://github.com/ligthyear/discourse-plugin-profile-notes
+[submodule "plugins/discourse-plugin-vb-emoticons"]
+	path = plugins/discourse-plugin-vb-emoticons
+	url = https://github.com/cpradio/discourse-plugin-vb-emoticons
+[submodule "plugins/8824566"]
+	path = plugins/8824566
+	url = https://gist.github.com/cfstras/8824566
