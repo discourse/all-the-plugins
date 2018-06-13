@@ -298,9 +298,6 @@
 [submodule "plugins/discourse-kinder-guardian"]
 	path = plugins/discourse-kinder-guardian
 	url = https://github.com/Mittineague/discourse-kinder-guardian
-[submodule "plugins/discourse-plugin-featured-image"]
-	path = plugins/discourse-plugin-featured-image
-	url = https://github.com/startsat60/discourse-plugin-featured-image
 [submodule "plugins/discourse-blogger-plugin"]
 	path = plugins/discourse-blogger-plugin
 	url = https://github.com/kcoop/discourse-blogger-plugin
@@ -334,9 +331,6 @@
 [submodule "plugins/discourse-plugin-autoplay"]
 	path = plugins/discourse-plugin-autoplay
 	url = https://github.com/dtchau/discourse-plugin-autoplay
-[submodule "plugins/discourse-mailgun"]
-	path = plugins/discourse-mailgun
-	url = https://github.com/andreabedini/discourse-mailgun
 [submodule "plugins/discourse-chargebee"]
 	path = plugins/discourse-chargebee
 	url = https://github.com/liliakai/discourse-chargebee
