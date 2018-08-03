@@ -90,7 +90,7 @@
 	url = https://github.com/critcola/discourse-overwatch-hero-icons.git
 [submodule "plugins/discourse-signatures"]
 	path = plugins/discourse-signatures
-	url = https://github.com/xfalcox/discourse-signatures
+	url = https://github.com/discourse/discourse-signatures
 [submodule "plugins/discourse-push-notifications"]
 	path = plugins/discourse-push-notifications
 	url = https://github.com/discourse/discourse-push-notifications
@@ -106,9 +106,6 @@
 [submodule "plugins/abbreviation-discourse-plugin"]
 	path = plugins/abbreviation-discourse-plugin
 	url = https://github.com/PoloGT/abbreviation-discourse-plugin.git
-[submodule "plugins/discourse-raptorize"]
-	path = plugins/discourse-raptorize
-	url = https://github.com/Cosban/discourse-raptorize
 [submodule "plugins/trout_emoji"]
 	path = plugins/trout_emoji
 	url = https://github.com/eviltrout/trout_emoji
@@ -126,7 +123,7 @@
 	url = https://github.com/kasperpeulen/discourse-mathjax
 [submodule "plugins/babble"]
 	path = plugins/babble
-	url = http://www.github.com/gdpelican/babble
+	url = https://github.com/gdpelican/babble
 [submodule "plugins/discourse-formatting-toolbar"]
 	path = plugins/discourse-formatting-toolbar
 	url = https://github.com/iunctis/discourse-formatting-toolbar
@@ -144,7 +141,7 @@
 	url = https://github.com/discoursehosting/discourse-sitemap
 [submodule "plugins/discourse-donations"]
 	path = plugins/discourse-donations
-	url = https://github.com/choiceaustralia/discourse-donations
+	url = https://github.com/chrisbeach/discourse-donations
 [submodule "plugins/discourse-layouts"]
 	path = plugins/discourse-layouts
 	url = https://github.com/angusmcleod/discourse-layouts
@@ -234,7 +231,7 @@
 	url = https://github.com/critcola/discourse-clyp-onebox
 [submodule "plugins/discourse-custom-topic-button"]
 	path = plugins/discourse-custom-topic-button
-	url = https://github.com/discourse/discourse-custom-topic-button
+	url = https://github.com/techapj/discourse-custom-topic-button
 [submodule "plugins/discourse-basic-links"]
 	path = plugins/discourse-basic-links
 	url = https://github.com/joebuhlig/discourse-basic-links
@@ -252,7 +249,7 @@
 	url = https://github.com/cpradio/composer-help-button
 [submodule "plugins/discourse-topic-group-button"]
 	path = plugins/discourse-topic-group-button
-	url = https://github.com/discourse/discourse-topic-group-button
+	url = https://github.com/techapj/discourse-topic-group-button
 [submodule "plugins/discourse-anonymous-categories"]
 	path = plugins/discourse-anonymous-categories
 	url = https://github.com/JaredReisinger/discourse-anonymous-categories
@@ -396,7 +393,7 @@
 	url = https://github.com/discourse/discourse-tooltips.git
 [submodule "plugins/discourse-unhandled-tagger"]
 	path = plugins/discourse-unhandled-tagger
-	url = git@github.com:discourse/discourse-unhandled-tagger.git
+	url = https://github.com/discourse/discourse-unhandled-tagger.git
 [submodule "discourse-characters-required"]
 	path = discourse-characters-required
 	url = https://github.com/discourse/discourse-characters-required.git
@@ -420,7 +417,7 @@
 	url = https://github.com/angusmcleod/discourse-category-moderator-lite
 [submodule "plugins/discourse-azure-blob-storage"]
 	path = plugins/discourse-azure-blob-storage
-	url = https://github.com/majakomel/discourse-azure-blob-storage
+	url = https://github.com/discourse/discourse-azure-blob-storage
 [submodule "plugins/discourse-question-answer"]
 	path = plugins/discourse-question-answer
 	url = https://github.com/angusmcleod/discourse-question-answer
@@ -442,9 +439,6 @@
 [submodule "plugins/discourse-response-bot"]
 	path = plugins/discourse-response-bot
 	url = https://github.com/bolariin/discourse-response-bot
-[submodule "plugins/dl-static-pages"]
-	path = plugins/dl-static-pages
-	url = https://github.com/discourse-league/dl-static-pages
 [submodule "plugins/discourse-opencollective-integration"]
 	path = plugins/discourse-opencollective-integration
 	url = https://github.com/sudaraka94/discourse-opencollective-integration
@@ -483,7 +477,7 @@
 	url = https://github.com/netdeamon/discourse-googlebooks
 [submodule "plugins/discourse-plugin-discord-auth"]
 	path = plugins/discourse-plugin-discord-auth
-	url = https://github.com/featheredtoast/discourse-plugin-discord-auth
+	url = https://github.com/discourse/discourse-plugin-discord-auth
 [submodule "plugins/discourse-menu-icon"]
 	path = plugins/discourse-menu-icon
 	url = https://github.com/VonLion/discourse-menu-icon
@@ -508,3 +502,63 @@
 [submodule "plugins/8824566"]
 	path = plugins/8824566
 	url = https://gist.github.com/cfstras/8824566
+[submodule "plugins/discourse-mark"]
+	path = plugins/discourse-mark
+	url = https://github.com/sirideain/discourse-mark
+[submodule "plugins/procourse-static-pages"]
+	path = plugins/procourse-static-pages
+	url = https://github.com/procourse/procourse-static-pages
+[submodule "plugins/discourse-league"]
+	path = plugins/discourse-league
+	url = https://github.com/discourse-league/discourse-league
+[submodule "plugins/discourse-voice-record"]
+	path = plugins/discourse-voice-record
+	url = https://github.com/synweap15/discourse-voice-record
+[submodule "plugins/discourse-post-read-email"]
+	path = plugins/discourse-post-read-email
+	url = https://github.com/mozilla/discourse-post-read-email
+[submodule "plugins/discourse-footnote"]
+	path = plugins/discourse-footnote
+	url = https://github.com/discourse/discourse-footnote
+[submodule "plugins/discourse-full-screen-videos-plugin"]
+	path = plugins/discourse-full-screen-videos-plugin
+	url = https://github.com/procourse/discourse-full-screen-videos-plugin
+[submodule "plugins/discourse-pwned-passwords"]
+	path = plugins/discourse-pwned-passwords
+	url = https://github.com/featheredtoast/discourse-pwned-passwords
+[submodule "plugins/discourse-file-attachment-whisper"]
+	path = plugins/discourse-file-attachment-whisper
+	url = https://github.com/HMSAB/discourse-file-attachment-whisper.git
+[submodule "plugins/discourse-shadowban"]
+	path = plugins/discourse-shadowban
+	url = https://github.com/notriddle/discourse-shadowban
+[submodule "plugins/discourse-mermaid"]
+	path = plugins/discourse-mermaid
+	url = https://github.com/unfoldingWord-dev/discourse-mermaid
+[submodule "plugins/discourse-policy"]
+	path = plugins/discourse-policy
+	url = https://github.com/discourse/discourse-policy
+[submodule "plugins/discourse-moderator-extension"]
+	path = plugins/discourse-moderator-extension
+	url = https://github.com/angusmcleod/discourse-moderator-extension
+[submodule "plugins/discourse-legal-tools"]
+	path = plugins/discourse-legal-tools
+	url = https://github.com/angusmcleod/discourse-legal-tools
+[submodule "plugins/discourse-topic-limit"]
+	path = plugins/discourse-topic-limit
+	url = https://github.com/TomGrobbe/discourse-topic-limit
+[submodule "plugins/discourse-private-topic"]
+	path = plugins/discourse-private-topic
+	url = https://github.com/HMSAB/discourse-private-topic.git
+[submodule "plugins/discourse-staff-topic-generation"]
+	path = plugins/discourse-staff-topic-generation
+	url = https://github.com/HMSAB/discourse-staff-topic-generation.git
+[submodule "plugins/discourse-email-extraction"]
+	path = plugins/discourse-email-extraction
+	url = https://github.com/HMSAB/discourse-email-extraction
+[submodule "plugins/discourse-favorites"]
+	path = plugins/discourse-favorites
+	url = https://github.com/nbianca/discourse-favorites
+[submodule "plugins/discourse-mailgun"]
+	path = plugins/discourse-mailgun
+	url = https://github.com/reallyreally/discourse-mailgun
