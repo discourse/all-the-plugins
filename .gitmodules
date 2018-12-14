@@ -1,9 +1,6 @@
 [submodule "plugins/discourse-ratings"]
 	path = plugins/discourse-ratings
 	url = https://github.com/angusmcleod/discourse-ratings
-[submodule "plugins/discourse-calender"]
-	path = plugins/discourse-calender
-	url = https://github.com/tcreativo/plugin_discourse_calendar
 [submodule "plugins/discourse-doi-resolver"]
 	path = plugins/discourse-doi-resolver
 	url = https://github.com/pfaffman/discourse-doi-resolver
@@ -88,9 +85,6 @@
 [submodule "plugins/discourse-overwatch-hero-icons"]
 	path = plugins/discourse-overwatch-hero-icons
 	url = https://github.com/critcola/discourse-overwatch-hero-icons.git
-[submodule "plugins/discourse-signatures"]
-	path = plugins/discourse-signatures
-	url = https://github.com/discourse/discourse-signatures
 [submodule "plugins/discourse-push-notifications"]
 	path = plugins/discourse-push-notifications
 	url = https://github.com/discourse/discourse-push-notifications
@@ -238,9 +232,6 @@
 [submodule "plugins/discourse-admin-statistics-digest"]
 	path = plugins/discourse-admin-statistics-digest
 	url = https://github.com/discourse/discourse-admin-statistics-digest
-[submodule "plugins/plugin_discourse_dynamic_sidebar"]
-	path = plugins/plugin_discourse_dynamic_sidebar
-	url = https://github.com/tcreativo/plugin_discourse_dynamic_sidebar
 [submodule "plugins/discourse-plugin-checklist"]
 	path = plugins/discourse-plugin-checklist
 	url = https://github.com/ligthyear/discourse-plugin-checklist
@@ -319,9 +310,6 @@
 [submodule "plugins/yammer-connect"]
 	path = plugins/yammer-connect
 	url = https://github.com/mlamarque/yammer-connect
-[submodule "plugins/plugin_discourse_spreadsheet"]
-	path = plugins/plugin_discourse_spreadsheet
-	url = https://github.com/tcreativo/plugin_discourse_spreadsheet
 [submodule "plugins/discourse-chinese-localization-pack"]
 	path = plugins/discourse-chinese-localization-pack
 	url = https://github.com/fantasticfears/discourse-chinese-localization-pack
@@ -415,9 +403,6 @@
 [submodule "plugins/discourse-category-moderator-lite"]
 	path = plugins/discourse-category-moderator-lite
 	url = https://github.com/angusmcleod/discourse-category-moderator-lite
-[submodule "plugins/discourse-azure-blob-storage"]
-	path = plugins/discourse-azure-blob-storage
-	url = https://github.com/discourse/discourse-azure-blob-storage
 [submodule "plugins/discourse-question-answer"]
 	path = plugins/discourse-question-answer
 	url = https://github.com/angusmcleod/discourse-question-answer
@@ -502,9 +487,6 @@
 [submodule "plugins/8824566"]
 	path = plugins/8824566
 	url = https://gist.github.com/cfstras/8824566
-[submodule "plugins/discourse-mark"]
-	path = plugins/discourse-mark
-	url = https://github.com/sirideain/discourse-mark
 [submodule "plugins/procourse-static-pages"]
 	path = plugins/procourse-static-pages
 	url = https://github.com/procourse/procourse-static-pages
@@ -562,3 +544,15 @@
 [submodule "plugins/discourse-mailgun"]
 	path = plugins/discourse-mailgun
 	url = https://github.com/reallyreally/discourse-mailgun
+[submodule "plugins/discourse-calendar"]
+	path = plugins/discourse-calendar
+	url = https://github.com/discourse/discourse-calendar.git
+[submodule "plugins/discourse-signatures"]
+	path = plugins/discourse-signatures
+	url = https://github.com/discourse/discourse-signatures.git
+[submodule "plugins/discourse-mark"]
+	path = plugins/discourse-mark
+	url = https://github.com/sirideain/discourse-mark.git
+[submodule "plugins/discourse-azure-blob-storage"]
+	path = plugins/discourse-azure-blob-storage
+	url = https://github.com/discourse/discourse-azure-blob-storage.git
