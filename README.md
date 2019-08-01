@@ -1,6 +1,6 @@
 # All the plugins
 
-A meta repository with links to every Discourse plugin that kind of works and the we know about.
+A meta repository with links to every Discourse plugin that kind of works and that we know about.
 
 ### Why this repo exists?
 
