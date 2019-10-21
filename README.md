@@ -4,7 +4,7 @@ A meta repository with links to every Discourse plugin that kind of works and th
 
 ### Why this repo exists?
 
-Occationally we need to deperecate extensibility interfaces or migrate to newer and better patterns. We use this meta repository to search through all plugins when doing such work.
+Occasionally we need to deprecate extensibility interfaces or migrate to newer and better patterns. We use this meta repository to search through all plugins when doing such work.
 
 ### Getting started with the meta repo
 
