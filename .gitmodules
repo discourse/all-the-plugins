@@ -34,8 +34,8 @@
 [submodule "plugins/discourse-adplugin"]
 	path = plugins/discourse-adplugin
 	url = https://github.com/discourse/discourse-adplugin.git
-[submodule "plugins/discourse-data-explorer.git"]
-	path = plugins/discourse-data-explorer.git
+[submodule "plugins/discourse-data-explorer"]
+	path = plugins/discourse-data-explorer
 	url = https://github.com/discourse/discourse-data-explorer.git
 [submodule "plugins/discourse-oauth2-basic"]
 	path = plugins/discourse-oauth2-basic
@@ -63,10 +63,10 @@
 	url = https://github.com/discourse/discourse-translator.git
 [submodule "plugins/retort"]
 	path = plugins/retort
-	url = http://github.com/gdpelican/retort.git
+	url = https://github.com/gdpelican/retort.git
 [submodule "plugins/discourse-omniauth-gitlab"]
 	path = plugins/discourse-omniauth-gitlab
-	url = http://gitlab.com/gitlab-org/discourse-omniauth-gitlab.git
+	url = https://gitlab.com/gitlab-org/discourse-omniauth-gitlab.git/
 [submodule "plugins/discourse-topic-previews"]
 	path = plugins/discourse-topic-previews
 	url = https://github.com/angusmcleod/discourse-topic-previews
@@ -246,7 +246,7 @@
 	url = https://github.com/JaredReisinger/discourse-anonymous-categories
 [submodule "plugins/discourse-plugin"]
 	path = plugins/discourse-plugin
-	url = http://github.com/auth0/discourse-plugin
+	url = https://github.com/auth0/discourse-plugin
 [submodule "plugins/docker_manager"]
 	path = plugins/docker_manager
 	url = https://github.com/discourse/docker_manager
