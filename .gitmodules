@@ -556,3 +556,6 @@
 [submodule "plugins/discourse-azure-blob-storage"]
 	path = plugins/discourse-azure-blob-storage
 	url = https://github.com/discourse/discourse-azure-blob-storage.git
+[submodule "plugins/discourse-bcc"]
+	path = plugins/discourse-bcc
+	url = https://github.com/discourse/discourse-bcc.git
