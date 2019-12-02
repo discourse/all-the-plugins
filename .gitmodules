@@ -559,3 +559,6 @@
 [submodule "plugins/discourse-bcc"]
 	path = plugins/discourse-bcc
 	url = https://github.com/discourse/discourse-bcc.git
+[submodule "plugins/discourse-teambuild"]
+	path = plugins/discourse-teambuild
+	url = https://github.com/discourse/discourse-teambuild.git
