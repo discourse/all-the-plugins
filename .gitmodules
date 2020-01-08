@@ -562,3 +562,6 @@
 [submodule "plugins/discourse-teambuild"]
 	path = plugins/discourse-teambuild
 	url = https://github.com/discourse/discourse-teambuild.git
+[submodule "plugins/discourse-jwt"]
+	path = plugins/discourse-jwt
+	url = https://github.com/discourse/discourse-jwt.git
