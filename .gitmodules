@@ -358,9 +358,6 @@
 [submodule "plugins/discourse-math"]
 	path = plugins/discourse-math
 	url = https://github.com/discourse/discourse-math
-[submodule "plugins/discourse-github-linkback"]
-	path = plugins/discourse-github-linkback
-	url = https://github.com/discourse/discourse-github-linkback
 [submodule "plugins/discourse-styleguide"]
 	path = plugins/discourse-styleguide
 	url = https://github.com/discourse/discourse-styleguide.git
@@ -565,3 +562,87 @@
 [submodule "plugins/discourse-jwt"]
 	path = plugins/discourse-jwt
 	url = https://github.com/discourse/discourse-jwt.git
+[submodule "plugins/discourse-knowledge-explorer"]
+	path = plugins/discourse-knowledge-explorer
+	url = https://github.com/discourse/discourse-knowledge-explorer
+[submodule "plugins/discourse-graphviz"]
+	path = plugins/discourse-graphviz
+	url = https://github.com/discourse/discourse-graphviz
+[submodule "plugins/discourse-openid-connect"]
+	path = plugins/discourse-openid-connect
+	url = https://github.com/discourse/discourse-openid-connect
+[submodule "plugins/discourse-yearly-review"]
+	path = plugins/discourse-yearly-review
+	url = https://github.com/discourse/discourse-yearly-review
+[submodule "plugins/discourse-github"]
+	path = plugins/discourse-github
+	url = https://github.com/discourse/discourse-github
+[submodule "plugins/discourse-perspective-api"]
+	path = plugins/discourse-perspective-api
+	url = https://github.com/discourse/discourse-perspective-api
+[submodule "plugins/discourse-restricted-replies"]
+	path = plugins/discourse-restricted-replies
+	url = https://github.com/discourse/discourse-restricted-replies
+[submodule "plugins/discourse-intercom"]
+	path = plugins/discourse-intercom
+	url = https://github.com/discourse/discourse-intercom
+[submodule "plugins/discourse-code-review"]
+	path = plugins/discourse-code-review
+	url = https://github.com/discourse/discourse-code-review
+[submodule "plugins/discourse-vk-auth"]
+	path = plugins/discourse-vk-auth
+	url = https://github.com/discourse/discourse-vk-auth
+[submodule "plugins/discourse-login-with-amazon"]
+	path = plugins/discourse-login-with-amazon
+	url = https://github.com/discourse/discourse-login-with-amazon
+[submodule "plugins/discourse-user-notes"]
+	path = plugins/discourse-user-notes
+	url = https://github.com/discourse/discourse-user-notes
+[submodule "plugins/discourse-anonymous-moderators"]
+	path = plugins/discourse-anonymous-moderators
+	url = https://github.com/discourse/discourse-anonymous-moderators
+[submodule "plugins/discourse-auto-deactivate"]
+	path = plugins/discourse-auto-deactivate
+	url = https://github.com/discourse/discourse-auto-deactivate
+[submodule "plugins/discourse-azure-ad"]
+	path = plugins/discourse-azure-ad
+	url = https://github.com/discourse/discourse-azure-ad
+[submodule "plugins/discourse-crowd"]
+	path = plugins/discourse-crowd
+	url = https://github.com/discourse/discourse-crowd
+[submodule "plugins/discourse-encrypt"]
+	path = plugins/discourse-encrypt
+	url = https://github.com/discourse/discourse-encrypt
+[submodule "plugins/discourse-fingerprint"]
+	path = plugins/discourse-fingerprint
+	url = https://github.com/discourse/discourse-fingerprint
+[submodule "plugins/discourse-moderator-attention"]
+	path = plugins/discourse-moderator-attention
+	url = https://github.com/discourse/discourse-moderator-attention
+[submodule "plugins/discourse-prometheus-alert-receiver"]
+	path = plugins/discourse-prometheus-alert-receiver
+	url = https://github.com/discourse/discourse-prometheus-alert-receiver
+[submodule "plugins/discourse-user-card-badges"]
+	path = plugins/discourse-user-card-badges
+	url = https://github.com/discourse/discourse-user-card-badges
+[submodule "plugins/discourse-rss-polling"]
+	path = plugins/discourse-rss-polling
+	url = https://github.com/discourse/discourse-rss-polling
+[submodule "plugins/discourse-group-timezones"]
+	path = plugins/discourse-group-timezones
+	url = https://github.com/discourse/discourse-group-timezones
+[submodule "plugins/discourse-sign-in-with-apple"]
+	path = plugins/discourse-sign-in-with-apple
+	url = https://github.com/discourse/discourse-sign-in-with-apple
+[submodule "plugins/discourse-zoom"]
+	path = plugins/discourse-zoom
+	url = https://github.com/discourse/discourse-zoom
+[submodule "plugins/discourse-chart"]
+	path = plugins/discourse-chart
+	url = https://github.com/discourse/discourse-chart
+[submodule "plugins/discourse-segment-io-plugin"]
+	path = plugins/discourse-segment-io-plugin
+	url = https://github.com/discourse/discourse-segment-io-plugin
+[submodule "plugins/discourse-automation"]
+	path = plugins/discourse-automation
+	url = https://github.com/discourse/discourse-automation
