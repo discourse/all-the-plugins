@@ -646,3 +646,6 @@
 [submodule "plugins/discourse-automation"]
 	path = plugins/discourse-automation
 	url = https://github.com/discourse/discourse-automation
+[submodule "plugins/discourse-categories-suppressed"]
+	path = plugins/discourse-categories-suppressed
+	url = https://github.com/discourse/discourse-categories-suppressed.git
