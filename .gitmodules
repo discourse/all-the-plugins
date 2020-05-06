@@ -649,3 +649,6 @@
 [submodule "plugins/discourse-categories-suppressed"]
 	path = plugins/discourse-categories-suppressed
 	url = https://github.com/discourse/discourse-categories-suppressed.git
+[submodule "plugins/discourse-grade-issue"]
+	path = plugins/discourse-grade-issue
+	url = https://github.com/discourse/discourse-gradle-issue
