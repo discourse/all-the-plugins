@@ -481,9 +481,6 @@
 [submodule "plugins/discourse-plugin-vb-emoticons"]
 	path = plugins/discourse-plugin-vb-emoticons
 	url = https://github.com/cpradio/discourse-plugin-vb-emoticons
-[submodule "plugins/8824566"]
-	path = plugins/8824566
-	url = https://gist.github.com/cfstras/8824566
 [submodule "plugins/procourse-static-pages"]
 	path = plugins/procourse-static-pages
 	url = https://github.com/procourse/procourse-static-pages
