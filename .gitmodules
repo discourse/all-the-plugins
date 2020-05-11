@@ -649,3 +649,6 @@
 [submodule "plugins/discourse-gradle-issue"]
 	path = plugins/discourse-gradle-issue
 	url = https://github.com/discourse/discourse-gradle-issue
+[submodule "plugins/discourse-fontawesome-pro"]
+	path = plugins/discourse-fontawesome-pro
+	url = https://github.com/discourse/discourse-fontawesome-pro.git
