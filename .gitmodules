@@ -481,9 +481,6 @@
 [submodule "plugins/procourse-static-pages"]
 	path = plugins/procourse-static-pages
 	url = https://github.com/procourse/procourse-static-pages
-[submodule "plugins/discourse-league"]
-	path = plugins/discourse-league
-	url = https://github.com/discourse-league/discourse-league
 [submodule "plugins/discourse-voice-record"]
 	path = plugins/discourse-voice-record
 	url = https://github.com/synweap15/discourse-voice-record
