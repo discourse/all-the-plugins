@@ -208,9 +208,6 @@
 [submodule "plugins/discourse-ldap-auth"]
 	path = plugins/discourse-ldap-auth
 	url = https://github.com/punitkrjain/discourse-ldap-auth
-[submodule "plugins/discourse-plugin-replygif"]
-	path = plugins/discourse-plugin-replygif
-	url = https://github.com/ligthyear/discourse-plugin-replygif
 [submodule "plugins/discourse-playstv-onebox"]
 	path = plugins/discourse-playstv-onebox
 	url = https://github.com/critcola/discourse-playstv-onebox
