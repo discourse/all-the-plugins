@@ -631,3 +631,6 @@
 [submodule "plugins/discourse-fontawesome-pro"]
 	path = plugins/discourse-fontawesome-pro
 	url = https://github.com/discourse/discourse-fontawesome-pro.git
+[submodule "plugins/discourse-plugin-replygif"]
+	path = plugins/discourse-plugin-replygif
+	url = https://github.com/cpradio/discourse-plugin-replygif.git
