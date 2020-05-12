@@ -190,9 +190,6 @@
 [submodule "plugins/discourse-ubuntu-sso"]
 	path = plugins/discourse-ubuntu-sso
 	url = https://github.com/marcoceppi/discourse-ubuntu-sso
-[submodule "plugins/dl-license-keys"]
-	path = plugins/dl-license-keys
-	url = https://github.com/discourse-league/dl-license-keys
 [submodule "plugins/discourse-branding"]
 	path = plugins/discourse-branding
 	url = https://github.com/vinkas0/discourse-branding
