@@ -16,9 +16,6 @@
 [submodule "plugins/discourse-canned-replies"]
 	path = plugins/discourse-canned-replies
 	url = https://github.com/discourse/discourse-canned-replies.git
-[submodule "plugins/discourse-slack-official"]
-	path = plugins/discourse-slack-official
-	url = https://github.com/discourse/discourse-slack-official.git
 [submodule "plugins/discourse-backup-uploads-to-s3"]
 	path = plugins/discourse-backup-uploads-to-s3
 	url = https://github.com/discourse/discourse-backup-uploads-to-s3.git
