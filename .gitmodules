@@ -241,9 +241,6 @@
 [submodule "plugins/discourse-anonymous-categories"]
 	path = plugins/discourse-anonymous-categories
 	url = https://github.com/JaredReisinger/discourse-anonymous-categories
-[submodule "plugins/discourse-plugin"]
-	path = plugins/discourse-plugin
-	url = https://github.com/auth0/discourse-plugin
 [submodule "plugins/docker_manager"]
 	path = plugins/docker_manager
 	url = https://github.com/discourse/docker_manager
@@ -634,9 +631,6 @@
 [submodule "plugins/discourse-segment-io-plugin"]
 	path = plugins/discourse-segment-io-plugin
 	url = https://github.com/discourse/discourse-segment-io-plugin
-[submodule "plugins/discourse-automation"]
-	path = plugins/discourse-automation
-	url = https://github.com/discourse/discourse-automation
 [submodule "plugins/discourse-categories-suppressed"]
 	path = plugins/discourse-categories-suppressed
 	url = https://github.com/discourse/discourse-categories-suppressed.git
