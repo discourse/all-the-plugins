@@ -223,9 +223,6 @@
 [submodule "plugins/discourse-basic-links"]
 	path = plugins/discourse-basic-links
 	url = https://github.com/joebuhlig/discourse-basic-links
-[submodule "plugins/discourse-admin-statistics-digest"]
-	path = plugins/discourse-admin-statistics-digest
-	url = https://github.com/discourse/discourse-admin-statistics-digest
 [submodule "plugins/discourse-plugin-checklist"]
 	path = plugins/discourse-plugin-checklist
 	url = https://github.com/ligthyear/discourse-plugin-checklist
