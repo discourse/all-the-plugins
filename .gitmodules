@@ -325,9 +325,6 @@
 [submodule "plugins/marvelapp_onebox"]
 	path = plugins/marvelapp_onebox
 	url = https://github.com/naveed-ahmad/marvelapp_onebox
-[submodule "plugins/discourse-plugin-shared-edit"]
-	path = plugins/discourse-plugin-shared-edit
-	url = https://github.com/ligthyear/discourse-plugin-shared-edit
 [submodule "plugins/vb_emoji"]
 	path = plugins/vb_emoji
 	url = https://github.com/cpradio/vb_emoji
