@@ -631,3 +631,6 @@
 [submodule "plugins/discourse-plugin-replygif"]
 	path = plugins/discourse-plugin-replygif
 	url = https://github.com/cpradio/discourse-plugin-replygif.git
+[submodule "plugins/discourse-theme-creator"]
+	path = plugins/discourse-theme-creator
+	url = https://github.com/discourse/discourse-theme-creator
