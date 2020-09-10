@@ -637,3 +637,126 @@
 [submodule "plugins/discourse-sift"]
 	path = plugins/discourse-sift
 	url = https://github.com/TwoHatPublic/discourse-sift.git
+[submodule "plugins/discourse-subscriptions"]
+	path = plugins/discourse-subscriptions
+	url = https://github.com/discourse/discourse-subscriptions
+[submodule "plugins/discourse-multilingual-post"]
+	path = plugins/discourse-multilingual-post
+	url = https://github.com/sylque/discourse-multilingual-post
+[submodule "plugins/discourse-checklist"]
+	path = plugins/discourse-checklist
+	url = https://github.com/discourse/discourse-checklist
+[submodule "plugins/discourse-membership-indicator"]
+	path = plugins/discourse-membership-indicator
+	url = https://github.com/discoursehosting/discourse-membership-indicator
+[submodule "plugins/discourse-delete-unreplied-topics"]
+	path = plugins/discourse-delete-unreplied-topics
+	url = https://github.com/discoursehosting/discourse-delete-unreplied-topics
+[submodule "plugins/discourse-follow"]
+	path = plugins/discourse-follow
+	url = https://github.com/paviliondev/discourse-follow
+[submodule "plugins/discourse-basic-editor"]
+	path = plugins/discourse-basic-editor
+	url = https://github.com/spirobel/discourse-basic-editor
+[submodule "plugins/discourse-bbb"]
+	path = plugins/discourse-bbb
+	url = https://github.com/discourse/discourse-bbb
+[submodule "plugins/discourse-onebox-assistant"]
+	path = plugins/discourse-onebox-assistant
+	url = https://github.com/merefield/discourse-onebox-assistant
+[submodule "plugins/discourse-mumble"]
+	path = plugins/discourse-mumble
+	url = https://github.com/nunof07/discourse-mumble
+[submodule "plugins/discourse-admin-statistics-digest"]
+	path = plugins/discourse-admin-statistics-digest
+	url = https://github.com/discourse/discourse-admin-statistics-digest
+[submodule "plugins/discourse-multilingual"]
+	path = plugins/discourse-multilingual
+	url = https://github.com/paviliondev/discourse-multilingual
+[submodule "plugins/discourse-custom-trust-level"]
+	path = plugins/discourse-custom-trust-level
+	url = https://github.com/Ahmedgagan/discourse-custom-trust-level
+[submodule "plugins/discourse-news"]
+	path = plugins/discourse-news
+	url = https://github.com/paviliondev/discourse-news
+[submodule "plugins/Restore-PM-Mentions"]
+	path = plugins/Restore-PM-Mentions
+	url = https://github.com/worldismine/Restore-PM-Mentions
+[submodule "plugins/discourse-tickets"]
+	path = plugins/discourse-tickets
+	url = https://github.com/paviliondev/discourse-tickets
+[submodule "plugins/discourse-staff-alias"]
+	path = plugins/discourse-staff-alias
+	url = https://github.com/discourse/discourse-staff-alias
+[submodule "plugins/discourse-remove-canonical"]
+	path = plugins/discourse-remove-canonical
+	url = https://github.com/unixneo/discourse-remove-canonical
+[submodule "plugins/mingle"]
+	path = plugins/mingle
+	url = https://github.com/gdpelican/mingle
+[submodule "plugins/discourse-graphql"]
+	path = plugins/discourse-graphql
+	url = https://github.com/tgxworld/discourse-graphql
+[submodule "plugins/Duplicate-Notification-Terminator"]
+	path = plugins/Duplicate-Notification-Terminator
+	url = https://github.com/worldismine/Duplicate-Notification-Terminator
+[submodule "plugins/discpage"]
+	path = plugins/discpage
+	url = https://github.com/sylque/discpage
+[submodule "plugins/container-names"]
+	path = plugins/container-names
+	url = https://github.com/unixneo/container-names
+[submodule "plugins/discourse-discord-bot"]
+	path = plugins/discourse-discord-bot
+	url = https://github.com/merefield/discourse-discord-bot
+[submodule "plugins/plugin_discourse_dynamic_sidebar"]
+	path = plugins/plugin_discourse_dynamic_sidebar
+	url = https://github.com/tcreativo/plugin_discourse_dynamic_sidebar
+[submodule "plugins/discourse-notifier"]
+	path = plugins/discourse-notifier
+	url = https://github.com/jahan-ggn/discourse-notifier
+[submodule "plugins/discourse-sidebar-categories"]
+	path = plugins/discourse-sidebar-categories
+	url = https://github.com/Toxuru/discourse-sidebar-categories
+[submodule "plugins/docuss"]
+	path = plugins/docuss
+	url = https://github.com/sylque/docuss
+[submodule "plugins/procourse-installer"]
+	path = plugins/procourse-installer
+	url = https://github.com/procourse/procourse-installer
+[submodule "plugins/projects"]
+	path = plugins/projects
+	url = https://github.com/spirobel/projects
+[submodule "plugins/discourse-frotz"]
+	path = plugins/discourse-frotz
+	url = https://github.com/merefield/discourse-frotz
+[submodule "plugins/discourse-stopforumspam"]
+	path = plugins/discourse-stopforumspam
+	url = https://github.com/singerscreations/discourse-stopforumspam
+[submodule "plugins/discourse-private-replies"]
+	path = plugins/discourse-private-replies
+	url = https://github.com/discoursehosting/discourse-private-replies
+[submodule "plugins/discourse-sentry"]
+	path = plugins/discourse-sentry
+	url = https://github.com/debtcollective/discourse-sentry
+[submodule "plugins/discourse-knowledge-base"]
+	path = plugins/discourse-knowledge-base
+	url = https://github.com/angusmcleod/discourse-knowledge-base
+[submodule "plugins/discourse-auto-email-in"]
+	path = plugins/discourse-auto-email-in
+	url = https://github.com/mozilla/discourse-auto-email-in
+[submodule "plugins/discourse-pushover-notifications"]
+	path = plugins/discourse-pushover-notifications
+	url = https://github.com/featheredtoast/discourse-pushover-notifications
+[submodule "plugins/discourse-auto-bookmarks"]
+	path = plugins/discourse-auto-bookmarks
+	url = https://github.com/acaporrini/discourse-auto-bookmarks
+[submodule "plugins/discourse-custom-app-banner"]
+	path = plugins/discourse-custom-app-banner
+	url = https://github.com/discoursehosting/discourse-custom-app-banner
+[submodule "plugins/discourse-oauth2-custom-redirects-plugin"]
+	path = plugins/discourse-oauth2-custom-redirects-plugin
+	url = https://github.com/procourse/discourse-oauth2-custom-redirects-plugin
+[submodule "plugins/dl-license-keys"]
+	path = plugins/dl-license-keys
+	url = https://github.com/discourse-league/dl-license-keys
