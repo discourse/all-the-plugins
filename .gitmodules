@@ -517,9 +517,6 @@
 [submodule "plugins/discourse-mailgun"]
 	path = plugins/discourse-mailgun
 	url = https://github.com/reallyreally/discourse-mailgun
-[submodule "plugins/discourse-calendar"]
-	path = plugins/discourse-calendar
-	url = https://github.com/discourse/discourse-calendar.git
 [submodule "plugins/discourse-signatures"]
 	path = plugins/discourse-signatures
 	url = https://github.com/discourse/discourse-signatures.git
@@ -709,9 +706,6 @@
 [submodule "plugins/discourse-discord-bot"]
 	path = plugins/discourse-discord-bot
 	url = https://github.com/merefield/discourse-discord-bot
-[submodule "plugins/plugin_discourse_dynamic_sidebar"]
-	path = plugins/plugin_discourse_dynamic_sidebar
-	url = https://github.com/tcreativo/plugin_discourse_dynamic_sidebar
 [submodule "plugins/discourse-notifier"]
 	path = plugins/discourse-notifier
 	url = https://github.com/jahan-ggn/discourse-notifier
@@ -760,3 +754,6 @@
 [submodule "plugins/dl-license-keys"]
 	path = plugins/dl-license-keys
 	url = https://github.com/discourse-league/dl-license-keys
+[submodule "plugins/discourse-calendar"]
+	path = plugins/discourse-calendar
+	url = https://github.com/discourse/discourse-calendar.git
