@@ -328,9 +328,6 @@
 [submodule "plugins/vb_emoji"]
 	path = plugins/vb_emoji
 	url = https://github.com/cpradio/vb_emoji
-[submodule "plugins/discourse-plugin-permalink"]
-	path = plugins/discourse-plugin-permalink
-	url = https://github.com/ligthyear/discourse-plugin-permalink
 [submodule "plugins/discourse-bbcode-color"]
 	path = plugins/discourse-bbcode-color
 	url = https://github.com/discourse/discourse-bbcode-color.git
@@ -379,9 +376,6 @@
 [submodule "plugins/discourse-saved-searches"]
 	path = plugins/discourse-saved-searches
 	url = https://github.com/discourse/discourse-saved-searches
-[submodule "plugins/discourse-category-moderator-lite"]
-	path = plugins/discourse-category-moderator-lite
-	url = https://github.com/angusmcleod/discourse-category-moderator-lite
 [submodule "plugins/discourse-question-answer"]
 	path = plugins/discourse-question-answer
 	url = https://github.com/angusmcleod/discourse-question-answer
@@ -493,9 +487,6 @@
 [submodule "plugins/discourse-policy"]
 	path = plugins/discourse-policy
 	url = https://github.com/discourse/discourse-policy
-[submodule "plugins/discourse-moderator-extension"]
-	path = plugins/discourse-moderator-extension
-	url = https://github.com/angusmcleod/discourse-moderator-extension
 [submodule "plugins/discourse-legal-tools"]
 	path = plugins/discourse-legal-tools
 	url = https://github.com/angusmcleod/discourse-legal-tools
