@@ -103,9 +103,6 @@
 [submodule "plugins/discourse-nationalflags"]
 	path = plugins/discourse-nationalflags
 	url = https://github.com/Ebsy/discourse-nationalflags
-[submodule "plugins/discourse-qa"]
-	path = plugins/discourse-qa
-	url = https://github.com/angusmcleod/discourse-qa
 [submodule "plugins/discourse-quick-messages"]
 	path = plugins/discourse-quick-messages
 	url = https://github.com/angusmcleod/discourse-quick-messages
