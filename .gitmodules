@@ -745,3 +745,6 @@
 [submodule "plugins/discourse-calendar"]
 	path = plugins/discourse-calendar
 	url = https://github.com/discourse/discourse-calendar.git
+[submodule "plugins/discourse-unikname-connect-authentication-plugin"]
+	path = plugins/discourse-unikname-connect-authentication-plugin
+	url = https://github.com/unik-name/discourse-unikname-connect-authentication-plugin
