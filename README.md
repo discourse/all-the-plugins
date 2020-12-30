@@ -21,13 +21,12 @@ If you have a plugin you would like included in the meta repo create a PR with t
 To add it
 
 ```
-git submodule add https://github.com/your-user/your-plugin.git plugins/your-plugin
+git submodule add https://github.com/your-user/your-plugin plugins/your-plugin
 ```
 
 Ensure the submodule is cloned into the `plugins` directory. Also, please make sure you publish your plugin at:
 
 https://meta.discourse.org/c/plugin
-
 
 ### Updating a plugin
 
