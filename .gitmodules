@@ -748,3 +748,6 @@
 [submodule "plugins/discourse-unikname-connect-authentication-plugin"]
 	path = plugins/discourse-unikname-connect-authentication-plugin
 	url = https://github.com/unik-name/discourse-unikname-connect-authentication-plugin
+[submodule "plugins/discourse-antivirus"]
+	path = plugins/discourse-antivirus
+	url = https://github.com/discourse/discourse-antivirus
