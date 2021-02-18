@@ -17,9 +17,6 @@
 [submodule "plugins/discourse-canned-replies"]
 	path = plugins/discourse-canned-replies
 	url = https://github.com/discourse/discourse-canned-replies.git
-[submodule "plugins/discourse-backup-uploads-to-s3"]
-	path = plugins/discourse-backup-uploads-to-s3
-	url = https://github.com/discourse/discourse-backup-uploads-to-s3.git
 [submodule "plugins/discourse-cakeday"]
 	path = plugins/discourse-cakeday
 	url = https://github.com/discourse/discourse-cakeday.git
@@ -164,9 +161,6 @@
 [submodule "plugins/discourse-konami"]
 	path = plugins/discourse-konami
 	url = https://github.com/cfstras/discourse-konami
-[submodule "plugins/discourse-presence"]
-	path = plugins/discourse-presence
-	url = https://github.com/discourse/discourse-presence
 [submodule "plugins/discourse-post-abbreviations"]
 	path = plugins/discourse-post-abbreviations
 	url = https://github.com/critcola/discourse-post-abbreviations
@@ -311,9 +305,6 @@
 [submodule "plugins/blog"]
 	path = plugins/blog
 	url = https://github.com/samsaffron/blog
-[submodule "plugins/discourse-details"]
-	path = plugins/discourse-details
-	url = https://github.com/discourse/discourse-details
 [submodule "plugins/wp-discourse-topic-integration"]
 	path = plugins/wp-discourse-topic-integration
 	url = https://github.com/matthieu-lapeyre/wp-discourse-topic-integration/
@@ -590,9 +581,6 @@
 [submodule "plugins/discourse-rss-polling"]
 	path = plugins/discourse-rss-polling
 	url = https://github.com/discourse/discourse-rss-polling
-[submodule "plugins/discourse-group-timezones"]
-	path = plugins/discourse-group-timezones
-	url = https://github.com/discourse/discourse-group-timezones
 [submodule "plugins/discourse-sign-in-with-apple"]
 	path = plugins/discourse-sign-in-with-apple
 	url = https://github.com/discourse/discourse-sign-in-with-apple
@@ -653,9 +641,6 @@
 [submodule "plugins/discourse-mumble"]
 	path = plugins/discourse-mumble
 	url = https://github.com/nunof07/discourse-mumble
-[submodule "plugins/discourse-admin-statistics-digest"]
-	path = plugins/discourse-admin-statistics-digest
-	url = https://github.com/discourse/discourse-admin-statistics-digest
 [submodule "plugins/discourse-multilingual"]
 	path = plugins/discourse-multilingual
 	url = https://github.com/paviliondev/discourse-multilingual
