@@ -737,3 +737,6 @@
 [submodule "plugins/discourse-antivirus"]
 	path = plugins/discourse-antivirus
 	url = https://github.com/discourse/discourse-antivirus
+[submodule "plugins/discourse-reactions"]
+	path = plugins/discourse-reactions
+	url = https://github.com/discourse/discourse-reactions
