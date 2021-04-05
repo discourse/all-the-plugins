@@ -743,3 +743,6 @@
 [submodule "plugins/discourse-shared-edits"]
 	path = plugins/discourse-shared-edits
 	url = https://github.com/discourse/discourse-shared-edits
+[submodule "plugins/discourse-category-experts"]
+	path = plugins/discourse-category-experts
+	url = https://github.com/discourse/discourse-category-experts
