@@ -514,9 +514,9 @@
 [submodule "plugins/discourse-jwt"]
 	path = plugins/discourse-jwt
 	url = https://github.com/discourse/discourse-jwt.git
-[submodule "plugins/discourse-knowledge-explorer"]
-	path = plugins/discourse-knowledge-explorer
-	url = https://github.com/discourse/discourse-knowledge-explorer
+[submodule "plugins/discourse-docs"]
+	path = plugins/discourse-docs
+	url = https://github.com/discourse/discourse-docs
 [submodule "plugins/discourse-graphviz"]
 	path = plugins/discourse-graphviz
 	url = https://github.com/discourse/discourse-graphviz
