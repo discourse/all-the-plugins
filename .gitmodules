@@ -182,9 +182,6 @@
 [submodule "plugins/discourse-ubuntu-sso"]
 	path = plugins/discourse-ubuntu-sso
 	url = https://github.com/marcoceppi/discourse-ubuntu-sso
-[submodule "plugins/discourse-branding"]
-	path = plugins/discourse-branding
-	url = https://github.com/vinkas0/discourse-branding
 [submodule "plugins/discourse-blocks"]
 	path = plugins/discourse-blocks
 	url = https://github.com/jgujgu/discourse-blocks
@@ -209,9 +206,6 @@
 [submodule "plugins/discourse-custom-topic-button"]
 	path = plugins/discourse-custom-topic-button
 	url = https://github.com/techapj/discourse-custom-topic-button
-[submodule "plugins/discourse-basic-links"]
-	path = plugins/discourse-basic-links
-	url = https://github.com/joebuhlig/discourse-basic-links
 [submodule "plugins/discourse-plugin-checklist"]
 	path = plugins/discourse-plugin-checklist
 	url = https://github.com/ligthyear/discourse-plugin-checklist
