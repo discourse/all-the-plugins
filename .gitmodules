@@ -317,9 +317,6 @@
 [submodule "plugins/discourse-bbcode-color"]
 	path = plugins/discourse-bbcode-color
 	url = https://github.com/discourse/discourse-bbcode-color.git
-[submodule "plugins/vbulletin-bbcode"]
-	path = plugins/vbulletin-bbcode
-	url = https://github.com/discourse/vbulletin-bbcode.git
 [submodule "plugins/discourse-math"]
 	path = plugins/discourse-math
 	url = https://github.com/discourse/discourse-math
