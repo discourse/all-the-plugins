@@ -89,9 +89,6 @@
 [submodule "plugins/discourse-guest-gate"]
 	path = plugins/discourse-guest-gate
 	url = https://github.com/jgujgu/discourse-guest-gate
-[submodule "plugins/discourse-media-overlay"]
-	path = plugins/discourse-media-overlay
-	url = https://github.com/davidtaylorhq/discourse-media-overlay
 [submodule "plugins/abbreviation-discourse-plugin"]
 	path = plugins/abbreviation-discourse-plugin
 	url = https://github.com/PoloGT/abbreviation-discourse-plugin.git
