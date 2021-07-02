@@ -1,0 +1,24 @@
+on:
+  # push: Uncomment if you want to test this workflow and make it commit to a non-main branch
+  #   branches:
+  #     - test_workflow
+  schedule:
+    - cron:  '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update_submodules:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          git submodule update --init --recursive --remote
+          if git diff-index --quiet HEAD --; then
+            echo "No updates required"
+          else
+            git add *
+            git config user.name discoursebuild
+            git config user.email build@discourse.org
+            git commit -m "update submodules"
+            git push
+          fi
+
