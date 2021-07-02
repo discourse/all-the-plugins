@@ -734,3 +734,6 @@
 [submodule "plugins/discourse-category-experts"]
 	path = plugins/discourse-category-experts
 	url = https://github.com/discourse/discourse-category-experts
+[submodule "plugins/discourse-brightcove"]
+	path = plugins/discourse-brightcove
+	url = https://github.com/discourse/discourse-brightcove
