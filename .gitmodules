@@ -738,3 +738,7 @@
 	path = plugins/discourse-brightcove
 	url = https://github.com/discourse/discourse-brightcove
 	branch = main
+[submodule "plugins/discourse-lti"]
+	path = plugins/discourse-lti
+	url = https://github.com/discourse/discourse-lti
+	branch = main
