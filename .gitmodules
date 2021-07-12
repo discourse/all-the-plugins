@@ -742,3 +742,6 @@
 	path = plugins/discourse-lti
 	url = https://github.com/discourse/discourse-lti
 	branch = main
+[submodule "plugins/discourse-codebytes-plugin"]
+	path = plugins/discourse-codebytes-plugin
+	url = https://github.com/Codecademy/discourse-codebytes-plugin
