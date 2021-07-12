@@ -10,12 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - run: git submodule update --init --recursive --remote
       - run: |
-          git submodule update --init --recursive --remote
+          for dir in plugins/*; do
+            default_branch=$(git -C $dir symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@')
+            git submodule set-branch -b $default_branch $dir
+          done
+      - run: |
           if git diff-index --quiet HEAD --; then
             echo "No updates required"
           else
-            git add *
+            git add .
             git config user.name discoursebuild
             git config user.email build@discourse.org
             git commit -m "update submodules"
