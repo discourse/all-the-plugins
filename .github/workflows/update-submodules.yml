@@ -17,7 +17,7 @@ jobs:
             git submodule set-branch -b $default_branch $dir
           done
       - run: |
-          if git diff-index --quiet HEAD --; then
+          if [ -z "$(git status --porcelain)" ]; then
             echo "No updates required"
           else
             git add .
