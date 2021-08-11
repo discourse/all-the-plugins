@@ -182,10 +182,6 @@
 	path = plugins/discourse-header-search
 	url = https://github.com/angusmcleod/discourse-header-search
 	branch = master
-[submodule "plugins/discourse-content_lockers"]
-	path = plugins/discourse-content_lockers
-	url = https://github.com/VinkasHQ/discourse-content_lockers
-	branch = master
 [submodule "plugins/force-signin"]
 	path = plugins/force-signin
 	url = https://github.com/netdeamon/force-signin
