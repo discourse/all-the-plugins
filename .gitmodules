@@ -565,10 +565,6 @@
 	path = plugins/discourse-invite-tokens
 	url = https://github.com/discourse/discourse-invite-tokens
 	branch = main
-[submodule "plugins/discourse-plugin-profile-notes"]
-	path = plugins/discourse-plugin-profile-notes
-	url = https://github.com/ligthyear/discourse-plugin-profile-notes
-	branch = master
 [submodule "plugins/discourse-plugin-vb-emoticons"]
 	path = plugins/discourse-plugin-vb-emoticons
 	url = https://github.com/cpradio/discourse-plugin-vb-emoticons
