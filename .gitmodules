@@ -877,10 +877,6 @@
 	path = plugins/discpage
 	url = https://github.com/sylque/discpage
 	branch = master
-[submodule "plugins/container-names"]
-	path = plugins/container-names
-	url = https://github.com/unixneo/container-names
-	branch = master
 [submodule "plugins/discourse-discord-bot"]
 	path = plugins/discourse-discord-bot
 	url = https://github.com/merefield/discourse-discord-bot
@@ -988,4 +984,8 @@
 [submodule "plugins/discourse-video"]
 	path = plugins/discourse-video
 	url = https://github.com/discourse/discourse-video
+	branch = main
+[submodule "plugins/discourse-container-names-with-gon"]
+	path = plugins/discourse-container-names-with-gon
+	url = https://github.com/unixneo/discourse-container-names-with-gon
 	branch = main
