@@ -158,10 +158,6 @@
 	path = plugins/discourse-sitemap
 	url = https://github.com/discoursehosting/discourse-sitemap
 	branch = main
-[submodule "plugins/discourse-donations"]
-	path = plugins/discourse-donations
-	url = https://github.com/chrisbeach/discourse-donations
-	branch = master
 [submodule "plugins/discourse-layouts"]
 	path = plugins/discourse-layouts
 	url = https://github.com/angusmcleod/discourse-layouts
