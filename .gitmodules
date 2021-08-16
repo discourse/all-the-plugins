@@ -493,10 +493,6 @@
 	path = plugins/discourse-auto-suspend
 	url = https://github.com/davidtaylorhq/discourse-auto-suspend
 	branch = master
-[submodule "plugins/discourse-elections"]
-	path = plugins/discourse-elections
-	url = https://github.com/angusmcleod/discourse-elections
-	branch = master
 [submodule "plugins/discourse-prometheus"]
 	path = plugins/discourse-prometheus
 	url = https://github.com/discourse/discourse-prometheus
