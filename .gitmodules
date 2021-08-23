@@ -270,10 +270,6 @@
 	path = plugins/discourse-topic-group-button
 	url = https://github.com/techapj/discourse-topic-group-button
 	branch = master
-[submodule "plugins/discourse-anonymous-categories"]
-	path = plugins/discourse-anonymous-categories
-	url = https://github.com/JaredReisinger/discourse-anonymous-categories
-	branch = master
 [submodule "plugins/docker_manager"]
 	path = plugins/docker_manager
 	url = https://github.com/discourse/docker_manager
