@@ -765,10 +765,6 @@
 	path = plugins/discourse-theme-creator
 	url = https://github.com/discourse/discourse-theme-creator
 	branch = main
-[submodule "plugins/discourse-sift"]
-	path = plugins/discourse-sift
-	url = https://github.com/TwoHatPublic/discourse-sift.git
-	branch = master
 [submodule "plugins/discourse-subscriptions"]
 	path = plugins/discourse-subscriptions
 	url = https://github.com/discourse/discourse-subscriptions
