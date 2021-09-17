@@ -443,8 +443,8 @@
 	branch = master
 [submodule "plugins/discourse-custom-wizard"]
 	path = plugins/discourse-custom-wizard
-	url = https://github.com/angusmcleod/discourse-custom-wizard
-	branch = master
+	url = https://github.com/paviliondev/discourse-custom-wizard
+	branch = main
 [submodule "plugins/discourse-saved-searches"]
 	path = plugins/discourse-saved-searches
 	url = https://github.com/discourse/discourse-saved-searches
