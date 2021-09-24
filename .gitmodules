@@ -961,3 +961,7 @@
 	path = plugins/discourse-container-names-with-gon
 	url = https://github.com/unixneo/discourse-container-names-with-gon
 	branch = main
+[submodule "plugins/discourse-surveys"]
+	path = plugins/discourse-surveys
+	url = https://github.com/discourse/discourse-surveys
+	branch = main
