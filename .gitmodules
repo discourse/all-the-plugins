@@ -808,7 +808,7 @@
 [submodule "plugins/discourse-multilingual"]
 	path = plugins/discourse-multilingual
 	url = https://github.com/paviliondev/discourse-multilingual
-	branch = master
+	branch = main
 [submodule "plugins/discourse-custom-trust-level"]
 	path = plugins/discourse-custom-trust-level
 	url = https://github.com/Ahmedgagan/discourse-custom-trust-level
