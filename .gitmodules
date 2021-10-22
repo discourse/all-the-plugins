@@ -66,10 +66,6 @@
 	path = plugins/discourse-assign
 	url = https://github.com/discourse/discourse-assign.git
 	branch = main
-[submodule "plugins/discourse-adsense"]
-	path = plugins/discourse-adsense
-	url = https://github.com/discoursehosting/discourse-adsense
-	branch = master
 [submodule "plugins/discourse-translator"]
 	path = plugins/discourse-translator
 	url = https://github.com/discourse/discourse-translator.git
@@ -154,10 +150,6 @@
 	path = plugins/discourse-whos-online
 	url = https://github.com/davidtaylorhq/discourse-whos-online
 	branch = main
-[submodule "plugins/discourse-sitemap"]
-	path = plugins/discourse-sitemap
-	url = https://github.com/discoursehosting/discourse-sitemap
-	branch = main
 [submodule "plugins/discourse-layouts"]
 	path = plugins/discourse-layouts
 	url = https://github.com/angusmcleod/discourse-layouts
@@ -181,10 +173,6 @@
 [submodule "plugins/Zendesk-Plugin"]
 	path = plugins/Zendesk-Plugin
 	url = https://github.com/shivpkumar/Zendesk-Plugin
-	branch = master
-[submodule "plugins/discourse-migratepassword"]
-	path = plugins/discourse-migratepassword
-	url = https://github.com/discoursehosting/discourse-migratepassword/
 	branch = master
 [submodule "plugins/discourse-onesignal"]
 	path = plugins/discourse-onesignal
@@ -777,14 +765,6 @@
 	path = plugins/discourse-checklist
 	url = https://github.com/discourse/discourse-checklist
 	branch = main
-[submodule "plugins/discourse-membership-indicator"]
-	path = plugins/discourse-membership-indicator
-	url = https://github.com/discoursehosting/discourse-membership-indicator
-	branch = master
-[submodule "plugins/discourse-delete-unreplied-topics"]
-	path = plugins/discourse-delete-unreplied-topics
-	url = https://github.com/discoursehosting/discourse-delete-unreplied-topics
-	branch = master
 [submodule "plugins/discourse-follow"]
 	path = plugins/discourse-follow
 	url = https://github.com/paviliondev/discourse-follow
@@ -881,10 +861,6 @@
 	path = plugins/discourse-stopforumspam
 	url = https://github.com/singerscreations/discourse-stopforumspam
 	branch = master
-[submodule "plugins/discourse-private-replies"]
-	path = plugins/discourse-private-replies
-	url = https://github.com/discoursehosting/discourse-private-replies
-	branch = master
 [submodule "plugins/discourse-sentry"]
 	path = plugins/discourse-sentry
 	url = https://github.com/debtcollective/discourse-sentry
@@ -904,10 +880,6 @@
 [submodule "plugins/discourse-auto-bookmarks"]
 	path = plugins/discourse-auto-bookmarks
 	url = https://github.com/acaporrini/discourse-auto-bookmarks
-	branch = master
-[submodule "plugins/discourse-custom-app-banner"]
-	path = plugins/discourse-custom-app-banner
-	url = https://github.com/discoursehosting/discourse-custom-app-banner
 	branch = master
 [submodule "plugins/discourse-oauth2-custom-redirects-plugin"]
 	path = plugins/discourse-oauth2-custom-redirects-plugin
