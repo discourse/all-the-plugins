@@ -1,7 +1,7 @@
 [submodule "plugins/discourse-ratings"]
 	path = plugins/discourse-ratings
-	url = https://github.com/angusmcleod/discourse-ratings
-	branch = master
+	url = https://github.com/paviliondev/discourse-ratings
+	branch = main
 [submodule "plugins/discourse-doi-resolver"]
 	path = plugins/discourse-doi-resolver
 	url = https://github.com/pfaffman/discourse-doi-resolver
@@ -152,8 +152,8 @@
 	branch = main
 [submodule "plugins/discourse-layouts"]
 	path = plugins/discourse-layouts
-	url = https://github.com/angusmcleod/discourse-layouts
-	branch = master
+	url = https://github.com/paviliondev/discourse-layouts
+	branch = main
 [submodule "plugins/discourse-facebook-onebox"]
 	path = plugins/discourse-facebook-onebox
 	url = https://github.com/vinkas0/discourse-facebook-onebox
@@ -767,8 +767,8 @@
 	branch = main
 [submodule "plugins/discourse-follow"]
 	path = plugins/discourse-follow
-	url = https://github.com/paviliondev/discourse-follow
-	branch = master
+	url = https://github.com/discourse/discourse-follow
+	branch = main
 [submodule "plugins/discourse-basic-editor"]
 	path = plugins/discourse-basic-editor
 	url = https://github.com/spirobel/discourse-basic-editor
