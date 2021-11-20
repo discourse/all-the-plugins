@@ -30,10 +30,6 @@
 	path = plugins/discourse-affiliate
 	url = https://github.com/discourse/discourse-affiliate.git
 	branch = main
-[submodule "plugins/discourse-staff-notes"]
-	path = plugins/discourse-staff-notes
-	url = https://github.com/discourse/discourse-staff-notes.git
-	branch = main
 [submodule "plugins/discourse-adplugin"]
 	path = plugins/discourse-adplugin
 	url = https://github.com/discourse/discourse-adplugin.git
