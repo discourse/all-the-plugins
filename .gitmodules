@@ -933,3 +933,7 @@
 	path = plugins/discourse-surveys
 	url = https://github.com/discourse/discourse-surveys
 	branch = main
+[submodule "plugins/discourse-chat"]
+	path = plugins/discourse-chat
+	url = https://github.com/discourse/discourse-chat
+	branch = main
