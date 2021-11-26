@@ -937,3 +937,7 @@
 	path = plugins/discourse-chat
 	url = https://github.com/discourse/discourse-chat
 	branch = main
+[submodule "plugins/discourse-group-tag-associations"]
+	path = plugins/discourse-group-tag-associations
+	url = https://github.com/discourse/discourse-group-tag-associations
+	branch = main
