@@ -941,3 +941,7 @@
 	path = plugins/discourse-group-tag-associations
 	url = https://github.com/discourse/discourse-group-tag-associations
 	branch = main
+[submodule "plugins/discourse-automation"]
+	path = plugins/discourse-automation
+	url = https://github.com/discourse/discourse-automation
+	branch = main
