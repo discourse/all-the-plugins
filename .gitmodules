@@ -46,10 +46,6 @@
 	path = plugins/discourse-plugin-linkedin-auth
 	url = https://github.com/discourse/discourse-plugin-linkedin-auth.git
 	branch = main
-[submodule "plugins/discourse-plugin-office365-auth"]
-	path = plugins/discourse-plugin-office365-auth
-	url = https://github.com/discourse/discourse-plugin-office365-auth.git
-	branch = main
 [submodule "plugins/discourse-voting"]
 	path = plugins/discourse-voting
 	url = https://github.com/discourse/discourse-voting
@@ -940,4 +936,8 @@
 [submodule "plugins/discourse-automation"]
 	path = plugins/discourse-automation
 	url = https://github.com/discourse/discourse-automation
+	branch = main
+[submodule "discourse-microsoft-auth"]
+	path = discourse-microsoft-auth
+	url = https://github.com/discourse/discourse-microsoft-auth
 	branch = main
