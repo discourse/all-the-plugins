@@ -505,10 +505,6 @@
 	path = plugins/discourse-googlebooks
 	url = https://github.com/netdeamon/discourse-googlebooks
 	branch = master
-[submodule "plugins/discourse-plugin-discord-auth"]
-	path = plugins/discourse-plugin-discord-auth
-	url = https://github.com/discourse/discourse-plugin-discord-auth
-	branch = main
 [submodule "plugins/discourse-menu-icon"]
 	path = plugins/discourse-menu-icon
 	url = https://github.com/VonLion/discourse-menu-icon
