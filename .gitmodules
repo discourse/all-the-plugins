@@ -81,7 +81,7 @@
 [submodule "plugins/discourse-telegram-notifications"]
 	path = plugins/discourse-telegram-notifications
 	url = https://github.com/davidtaylorhq/discourse-telegram-notifications
-	branch = master
+	branch = main
 [submodule "plugins/discourse-forcemoderation"]
 	path = plugins/discourse-forcemoderation
 	url = https://github.com/leodavidson/discourse-forcemoderation
