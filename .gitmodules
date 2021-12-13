@@ -701,9 +701,9 @@
 	path = plugins/discourse-rss-polling
 	url = https://github.com/discourse/discourse-rss-polling
 	branch = main
-[submodule "plugins/discourse-sign-in-with-apple"]
-	path = plugins/discourse-sign-in-with-apple
-	url = https://github.com/discourse/discourse-sign-in-with-apple
+[submodule "plugins/discourse-apple-auth"]
+	path = plugins/discourse-apple-auth
+	url = https://github.com/discourse/discourse-apple-auth
 	branch = main
 [submodule "plugins/discourse-zoom"]
 	path = plugins/discourse-zoom
