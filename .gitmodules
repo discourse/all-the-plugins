@@ -934,7 +934,7 @@
 	url = https://github.com/discourse/discourse-automation
 	branch = main
 [submodule "discourse-microsoft-auth"]
-	path = discourse-microsoft-auth
+	path = plugins/discourse-microsoft-auth
 	url = https://github.com/discourse/discourse-microsoft-auth
 	branch = main
 [submodule "plugins/discourse-linkedin-auth"]
