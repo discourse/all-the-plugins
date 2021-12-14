@@ -941,3 +941,5 @@
 	path = plugins/discourse-linkedin-auth
 	url = https://github.com/discourse/discourse-linkedin-auth
 	branch = main
+[submodule "plugins/discourse-microsoft-auth"]
+	branch = main
