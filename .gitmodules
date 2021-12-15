@@ -943,3 +943,7 @@
 	branch = main
 [submodule "plugins/discourse-microsoft-auth"]
 	branch = main
+[submodule "plugins/discourse-development-auth"]
+	path = plugins/discourse-development-auth
+	url = https://github.com/discourse/discourse-development-auth
+	branch = main
