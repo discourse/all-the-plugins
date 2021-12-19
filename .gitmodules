@@ -933,17 +933,19 @@
 	path = plugins/discourse-automation
 	url = https://github.com/discourse/discourse-automation
 	branch = main
-[submodule "discourse-microsoft-auth"]
-	path = plugins/discourse-microsoft-auth
-	url = https://github.com/discourse/discourse-microsoft-auth
-	branch = main
 [submodule "plugins/discourse-linkedin-auth"]
 	path = plugins/discourse-linkedin-auth
 	url = https://github.com/discourse/discourse-linkedin-auth
 	branch = main
 [submodule "plugins/discourse-microsoft-auth"]
+	path = plugins/discourse-microsoft-auth
+	url = https://github.com/discourse/discourse-microsoft-auth
 	branch = main
 [submodule "plugins/discourse-development-auth"]
 	path = plugins/discourse-development-auth
 	url = https://github.com/discourse/discourse-development-auth
+	branch = main
+[submodule "plugins/discourse-kolide"]
+	path = plugins/discourse-kolide
+	url = https://github.com/discourse/discourse-kolide
 	branch = main
