@@ -218,10 +218,6 @@
 	path = plugins/discourse-plugin-outlet-locations
 	url = https://github.com/Mittineague/discourse-plugin-outlet-locations.git
 	branch = master
-[submodule "plugins/discourse-ldap-auth"]
-	path = plugins/discourse-ldap-auth
-	url = https://github.com/punitkrjain/discourse-ldap-auth
-	branch = master
 [submodule "plugins/discourse-playstv-onebox"]
 	path = plugins/discourse-playstv-onebox
 	url = https://github.com/critcola/discourse-playstv-onebox
@@ -949,3 +945,7 @@
 	path = plugins/discourse-kolide
 	url = https://github.com/discourse/discourse-kolide
 	branch = main
+[submodule "plugins/discourse-ldap-auth"]
+	path = plugins/discourse-ldap-auth
+	url = https://github.com/jonmbake/discourse-ldap-auth
+	branch = master
