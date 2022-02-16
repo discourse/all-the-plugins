@@ -1,9 +1,9 @@
 on:
-  # push: Uncomment if you want to test this workflow and make it commit to a non-main branch
+  # push: # Uncomment if you want to test this workflow and make it commit to a non-main branch
   #   branches:
   #     - test_workflow
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '0 0 * * 1'
   workflow_dispatch:
 jobs:
   update_submodules:
@@ -16,14 +16,10 @@ jobs:
             default_branch=$(git -C $dir symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@')
             git submodule set-branch -b $default_branch $dir
           done
-      - run: |
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "No updates required"
-          else
-            git add .
-            git config user.name discoursebuild
-            git config user.email build@discourse.org
-            git commit -m "update submodules"
-            git push
-          fi
-
+      - name: create PR
+        uses: peter-evans/create-pull-request@f22a7da129c901513876a2380e2dae9f8e145330
+        with:
+          branch: update-submodules
+          commit-message: "update submodules"
+          title: "Update Submodules"
+          author: discoursebuild <build@discourse.org>
