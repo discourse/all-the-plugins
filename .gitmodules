@@ -953,3 +953,7 @@
 	path = plugins/discourse-logster-rate-limit-checker
 	url = https://github.com/discourse/discourse-logster-rate-limit-checker
 	branch = main
+[submodule "plugins/discourse-logster-transporter"]
+	path = plugins/discourse-logster-transporter
+	url = https://github.com/discourse/discourse-logster-transporter
+	branch = main
