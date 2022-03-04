@@ -949,3 +949,7 @@
 	path = plugins/discourse-ldap-auth
 	url = https://github.com/jonmbake/discourse-ldap-auth
 	branch = master
+[submodule "plugins/discourse-logster-rate-limit-checker"]
+	path = plugins/discourse-logster-rate-limit-checker
+	url = https://github.com/discourse/discourse-logster-rate-limit-checker
+	branch = main
