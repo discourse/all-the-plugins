@@ -958,3 +958,7 @@
 	path = plugins/discourse-logster-transporter
 	url = https://github.com/discourse/discourse-logster-transporter
 	branch = main
+[submodule "plugins/discourse-animated-avatars"]
+	path = plugins/discourse-animated-avatars
+	url = https://github.com/discourse/discourse-animated-avatars
+	branch = main
