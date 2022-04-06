@@ -970,3 +970,7 @@
 	path = plugins/discourse-url-filters
 	url = https://github.com/discourse/discourse-url-filters
 	branch = main
+[submodule "plugins/discourse-salesforce"]
+	path = plugins/discourse-salesforce
+	url = https://github.com/discourse/discourse-salesforce
+	branch = main
