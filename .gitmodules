@@ -966,3 +966,7 @@
 	path = plugins/discourse-sitemap
 	url = https://github.com/discourse/discourse-sitemap
 	branch = main
+[submodule "plugins/discourse-url-filters"]
+	path = plugins/discourse-url-filters
+	url = https://github.com/discourse/discourse-url-filters
+	branch = main
