@@ -974,3 +974,7 @@
 	path = plugins/discourse-salesforce
 	url = https://github.com/discourse/discourse-salesforce
 	branch = main
+[submodule "plugins/discourse-gamification"]
+	path = plugins/discourse-gamification
+	url = https://github.com/discourse/discourse-gamification
+	branch = main
