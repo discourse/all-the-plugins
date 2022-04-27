@@ -398,10 +398,6 @@
 	path = plugins/discourse-unhandled-tagger
 	url = https://github.com/discourse/discourse-unhandled-tagger.git
 	branch = main
-[submodule "discourse-characters-required"]
-	path = discourse-characters-required
-	url = https://github.com/discourse/discourse-characters-required.git
-	branch = main
 [submodule "plugins/discourse-characters-required"]
 	path = plugins/discourse-characters-required
 	url = https://github.com/discourse/discourse-characters-required.git
