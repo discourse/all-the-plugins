@@ -978,3 +978,7 @@
 	path = plugins/twitter-profile-link
 	url = https://github.com/discourse/twitter-profile-link
 	branch = main
+[submodule "plugins/twitter-topic-group-button"]
+	path = plugins/twitter-topic-group-button
+	url = https://github.com/discourse-org/twitter-topic-group-button
+	branch = main
