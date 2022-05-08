@@ -974,3 +974,7 @@
 	path = plugins/discourse-gamification
 	url = https://github.com/discourse/discourse-gamification
 	branch = main
+[submodule "plugins/twitter-profile-link"]
+	path = plugins/twitter-profile-link
+	url = https://github.com/discourse/twitter-profile-link
+	branch = main
