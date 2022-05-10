@@ -982,3 +982,7 @@
 	path = plugins/twitter-topic-group-button
 	url = https://github.com/discourse-org/twitter-topic-group-button
 	branch = main
+[submodule "plugins/neweb-adplugin"]
+	path = plugins/neweb-adplugin
+	url = https://github.com/discourse/neweb-adplugin
+	branch = main
