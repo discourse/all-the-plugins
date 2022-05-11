@@ -840,7 +840,7 @@
 	branch = master
 [submodule "plugins/discourse-knowledge-base"]
 	path = plugins/discourse-knowledge-base
-	url = https://github.com/angusmcleod/discourse-knowledge-base
+	url = https://github.com/paviliondev/discourse-knowledge-base
 	branch = master
 [submodule "plugins/discourse-auto-email-in"]
 	path = plugins/discourse-auto-email-in
