@@ -420,7 +420,7 @@
 	branch = main
 [submodule "plugins/discourse-question-answer"]
 	path = plugins/discourse-question-answer
-	url = https://github.com/angusmcleod/discourse-question-answer
+	url = https://github.com/paviliondev/discourse-question-answer
 	branch = master
 [submodule "plugins/discourse-etiquette"]
 	path = plugins/discourse-etiquette
