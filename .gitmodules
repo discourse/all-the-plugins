@@ -556,7 +556,7 @@
 	branch = main
 [submodule "plugins/discourse-legal-tools"]
 	path = plugins/discourse-legal-tools
-	url = https://github.com/angusmcleod/discourse-legal-tools
+	url = https://github.com/paviliondev/discourse-legal-tools
 	branch = master
 [submodule "plugins/discourse-topic-limit"]
 	path = plugins/discourse-topic-limit
