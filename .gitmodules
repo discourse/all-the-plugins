@@ -68,7 +68,7 @@
 	branch = master
 [submodule "plugins/discourse-topic-previews"]
 	path = plugins/discourse-topic-previews
-	url = https://github.com/angusmcleod/discourse-topic-previews
+	url = https://github.com/paviliondev/discourse-topic-previews
 	branch = master
 [submodule "plugins/discourse-steam-login"]
 	path = plugins/discourse-steam-login
