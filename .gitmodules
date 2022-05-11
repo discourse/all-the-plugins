@@ -986,3 +986,7 @@
 	path = plugins/neweb-adplugin
 	url = https://github.com/discourse/neweb-adplugin
 	branch = main
+[submodule "plugins/discourse-meteor"]
+	path = plugins/discourse-meteor
+	url = https://github.com/discourse/discourse-meteor
+	branch = main
