@@ -110,10 +110,6 @@
 	path = plugins/discourse-nationalflags
 	url = https://github.com/Ebsy/discourse-nationalflags
 	branch = master
-[submodule "plugins/discourse-quick-messages"]
-	path = plugins/discourse-quick-messages
-	url = https://github.com/angusmcleod/discourse-quick-messages
-	branch = master
 [submodule "plugins/discourse-mathjax"]
 	path = plugins/discourse-mathjax
 	url = https://github.com/kasperpeulen/discourse-mathjax
