@@ -662,10 +662,6 @@
 	path = plugins/discourse-auto-deactivate
 	url = https://github.com/discourse/discourse-auto-deactivate
 	branch = main
-[submodule "plugins/discourse-azure-ad"]
-	path = plugins/discourse-azure-ad
-	url = https://github.com/discourse/discourse-azure-ad
-	branch = main
 [submodule "plugins/discourse-crowd"]
 	path = plugins/discourse-crowd
 	url = https://github.com/discourse/discourse-crowd
