@@ -773,7 +773,7 @@
 [submodule "plugins/discourse-tickets"]
 	path = plugins/discourse-tickets
 	url = https://github.com/paviliondev/discourse-tickets
-	branch = master
+	branch = main
 [submodule "plugins/discourse-staff-alias"]
 	path = plugins/discourse-staff-alias
 	url = https://github.com/discourse/discourse-staff-alias
