@@ -408,8 +408,8 @@
 	branch = main
 [submodule "plugins/discourse-events"]
 	path = plugins/discourse-events
-	url = https://github.com/angusmcleod/discourse-events
-	branch = master
+	url = https://github.com/paviliondev/discourse-events
+	branch = main
 [submodule "plugins/discourse-custom-wizard"]
 	path = plugins/discourse-custom-wizard
 	url = https://github.com/paviliondev/discourse-custom-wizard
