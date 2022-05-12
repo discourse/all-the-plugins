@@ -982,3 +982,11 @@
 	path = plugins/discourse-meteor
 	url = https://github.com/discourse/discourse-meteor
 	branch = main
+[submodule "plugins/discourse-wikimedia-auth"]
+	path = plugins/discourse-wikimedia-auth
+	url = https://github.com/discourse/discourse-wikimedia-auth
+	branch = main
+[submodule "plugins/discourse-group-membership-ip-block"]
+	path = plugins/discourse-group-membership-ip-block
+	url = https://github.com/discourse/discourse-group-membership-ip-block
+	branch = main
