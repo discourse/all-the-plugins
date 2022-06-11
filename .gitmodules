@@ -990,3 +990,7 @@
 	path = plugins/discourse-marketo
 	url = https://github.com/discourse/discourse-marketo
 	branch = main
+[submodule "plugins/discourse-templates"]
+	path = plugins/discourse-templates
+	url = https://github.com/discourse/discourse-templates
+	branch = main
