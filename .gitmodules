@@ -986,3 +986,7 @@
 	path = plugins/discourse-group-membership-ip-block
 	url = https://github.com/discourse/discourse-group-membership-ip-block
 	branch = main
+[submodule "plugins/discourse-marketo"]
+	path = plugins/discourse-marketo
+	url = https://github.com/discourse/discourse-marketo
+	branch = main
