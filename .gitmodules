@@ -994,3 +994,7 @@
 	path = plugins/discourse-templates
 	url = https://github.com/discourse/discourse-templates
 	branch = main
+[submodule "plugins/discourse-client-performance"]
+	path = plugins/discourse-client-performance
+	url = https://github.com/discourse/discourse-client-performance
+	branch = main
