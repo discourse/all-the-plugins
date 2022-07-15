@@ -230,10 +230,6 @@
 	path = plugins/discourse-plugin-checklist
 	url = https://github.com/ligthyear/discourse-plugin-checklist
 	branch = master
-[submodule "plugins/composer-help-button"]
-	path = plugins/composer-help-button
-	url = https://github.com/cpradio/composer-help-button
-	branch = master
 [submodule "plugins/discourse-topic-group-button"]
 	path = plugins/discourse-topic-group-button
 	url = https://github.com/techapj/discourse-topic-group-button
