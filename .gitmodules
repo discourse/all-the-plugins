@@ -995,6 +995,6 @@
 	url = https://github.com/paviliondev/discourse-question-answer
 	branch = master
 [submodule "plugins/discourse-question-answer-discourse"]
-	path = plugins/discourse-question-answer
+	path = plugins/discourse-question-answer-discourse
 	url = https://github.com/discourse/discourse-question-answer
 	branch = main
