@@ -421,7 +421,7 @@
 [submodule "plugins/discourse-locations"]
 	path = plugins/discourse-locations
 	url = https://github.com/paviliondev/discourse-locations
-	branch = master
+	branch = main
 [submodule "plugins/discourse-mlm-daily-summary"]
 	path = plugins/discourse-mlm-daily-summary
 	url = https://github.com/joebuhlig/discourse-mlm-daily-summary
@@ -545,7 +545,7 @@
 [submodule "plugins/discourse-legal-tools"]
 	path = plugins/discourse-legal-tools
 	url = https://github.com/paviliondev/discourse-legal-tools
-	branch = master
+	branch = main
 [submodule "plugins/discourse-topic-limit"]
 	path = plugins/discourse-topic-limit
 	url = https://github.com/TomGrobbe/discourse-topic-limit
