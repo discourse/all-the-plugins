@@ -238,10 +238,10 @@
 	path = plugins/docker_manager
 	url = https://github.com/discourse/docker_manager
 	branch = main
-[submodule "plugins/browser_history"]
+[submodule "plugins/discourse-browser-history"]
 	path = plugins/browser_history
-	url = https://github.com/discourse/browser_history
-	branch = master
+	url = https://github.com/discourse/discourse-browser-history
+	branch = main
 [submodule "plugins/discourse-slackdoor"]
 	path = plugins/discourse-slackdoor
 	url = https://github.com/mcwumbly/discourse-slackdoor
