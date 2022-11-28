@@ -994,3 +994,5 @@
 	path = plugins/discourse-question-answer-discourse
 	url = https://github.com/discourse/discourse-question-answer
 	branch = main
+[submodule "plugins/browser_history"]
+	branch = main
