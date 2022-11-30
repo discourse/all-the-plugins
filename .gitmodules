@@ -996,3 +996,7 @@
 	branch = main
 [submodule "plugins/browser_history"]
 	branch = main
+[submodule "plugins/discourse-post-voting"]
+	path = plugins/discourse-post-voting
+	url = https://github.com/discourse/discourse-post-voting
+	branch = main
