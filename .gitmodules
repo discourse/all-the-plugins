@@ -994,3 +994,7 @@
 	path = plugins/discourse-post-voting
 	url = https://github.com/discourse/discourse-post-voting
 	branch = main
+[submodule "plugins/discourse-browser-history"]
+	path = plugins/discourse-browser-history
+	url = https://github.com/discourse/discourse-browser-history
+	branch = main
