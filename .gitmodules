@@ -998,3 +998,7 @@
 	path = plugins/discourse-browser-history
 	url = https://github.com/discourse/discourse-browser-history
 	branch = main
+[submodule "plugins/discourse-directoryopus"]
+	path = plugins/discourse-directoryopus
+	url = https://github.com/LeoDavidson/discourse-directoryopus
+	branch = master
