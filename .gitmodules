@@ -1002,3 +1002,7 @@
 	path = plugins/discourse-directoryopus
 	url = https://github.com/LeoDavidson/discourse-directoryopus
 	branch = master
+[submodule "plugins/discourse-local-site-contacts"]
+	path = plugins/discourse-local-site-contacts
+	url = https://github.com/discourse/discourse-local-site-contacts
+	branch = main
