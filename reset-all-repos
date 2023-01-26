@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require "bundler/inline"
+
+gemfile do
+  source "https://rubygems.org"
+  gem "mass_git_clone"
+end
+
+repos = File.read("plugins.txt").split("\n")
+base_dir = File.join(__dir__, "plugins")
+MassGitClone.mass_clone(repo_list: repos, repo_base_dir: base_dir)

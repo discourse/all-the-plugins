@@ -11,32 +11,25 @@ Occasionally we need to deprecate extensibility interfaces or migrate to newer a
 ```
 git clone https://github.com/discourse/all-the-plugins.git
 cd all-the-plugins
-git submodule update --init --recursive
+./reset-all-repos
 ```
 
 ### Contributing your own plugin
 
-If you have a plugin you would like included in the meta repo create a PR with the new submodule.
+If you have a plugin you would like included in the meta repo create a PR to add the repository to plugins.txt
 
-To add it
+Also, please make sure you publish your plugin at https://meta.discourse.org/c/plugin
 
-```
-git submodule add -b main https://github.com/your-user/your-plugin plugins/your-plugin
-```
+### Updating
 
-Ensure the submodule is cloned into the `plugins` directory. Also, please make sure you publish your plugin at:
+To update your local copies of plugins, run `./reset-all-repos`. The default branch of each repo will be checked out, reset to the latest commit on the origin, and all
+local changes will be discarded. Any stale directories under `./plugins` will be deleted.
 
-https://meta.discourse.org/c/plugin
+If you want a totally clean slate, `rm -rf ./plugins`, and then run `./reset-all-repos` again.
 
-### Updating a plugin
+### Removing a plugin
 
-Once in a while we will run
-
-```
-git submodule update --recursive --remote
-```
-
-If you would like to speed up our update process, submit a PR with updated submodules
+Delete the line from `plugins.txt` and commit your changes. To remove from your locally cloned repos, use `./reset-all-repos`.
 
 ### Update from meta script
 
