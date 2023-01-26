@@ -4,7 +4,7 @@ require "bundler/inline"
 
 gemfile do
   source "https://rubygems.org"
-  gem "mass_git_clone"
+  gem "mass_git_clone", "0.1.1"
 end
 
 repos = File.read("plugins.txt").split("\n")
