@@ -248,4 +248,3 @@ discourse/discourse-post-voting
 discourse/discourse-browser-history
 LeoDavidson/discourse-directoryopus
 discourse/discourse-local-site-contacts
-discourse/discourse-circles
