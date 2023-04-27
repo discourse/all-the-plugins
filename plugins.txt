@@ -232,7 +232,6 @@ jonmbake/discourse-ldap-auth
 discourse/discourse-logster-rate-limit-checker
 discourse/discourse-logster-transporter
 discourse/discourse-animated-avatars
-discourse/discourse-sitemap
 discourse/discourse-url-filters
 discourse/discourse-salesforce
 discourse/discourse-gamification
