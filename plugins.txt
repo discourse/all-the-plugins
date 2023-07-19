@@ -249,3 +249,4 @@ LeoDavidson/discourse-directoryopus
 discourse/discourse-local-site-contacts
 discourse/discourse-ai
 discourse/discourse-global-filter
+discourse/discourse-onboarding-banner
