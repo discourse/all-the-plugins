@@ -178,7 +178,6 @@ cpradio/discourse-plugin-replygif
 discourse/discourse-theme-creator
 discourse/discourse-subscriptions
 sylque/discourse-multilingual-post
-discourse/discourse-checklist
 discourse/discourse-follow
 spirobel/discourse-basic-editor
 discourse/discourse-bbb
