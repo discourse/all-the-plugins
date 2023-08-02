@@ -3,7 +3,6 @@ pfaffman/discourse-doi-resolver
 discourse/discourse-spoiler-alert
 discourse/discourse-akismet
 discourse/discourse-solved
-discourse/discourse-canned-replies
 discourse/discourse-cakeday
 discourse/discourse-affiliate
 discourse/discourse-adplugin
