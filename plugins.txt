@@ -30,7 +30,7 @@ davidtaylorhq/discourse-whos-online
 debtcollective/discourse-sentry
 discourse-league/dl-license-keys
 discourse-org/twitter-topic-group-button
-#discourse/discourse-adplugin
+discourse/discourse-adplugin
 discourse/discourse-affiliate
 discourse/discourse-ai
 discourse/discourse-akismet
