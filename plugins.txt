@@ -98,6 +98,7 @@ discourse/discourse-patreon
 discourse/discourse-perspective-api
 discourse/discourse-policy
 discourse/discourse-post-voting
+discourse/discourse-prepend-tags-in-topic-slug
 discourse/discourse-prometheus
 discourse/discourse-prometheus-alert-receiver
 discourse/discourse-reactions
