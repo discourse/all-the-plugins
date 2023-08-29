@@ -60,6 +60,7 @@ discourse/discourse-code-review
 discourse/discourse-crowd
 discourse/discourse-data-explorer
 discourse/discourse-development-auth
+discourse/discourse-disorder
 discourse/discourse-docs
 discourse/discourse-encrypt
 discourse/discourse-fingerprint
