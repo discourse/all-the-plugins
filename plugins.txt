@@ -206,7 +206,6 @@ pfaffman/discourse-doi-resolver
 pmusaraj/discourse-onesignal
 PoloGT/abbreviation-discourse-plugin
 procourse/discourse-full-screen-videos-plugin
-procourse/discourse-oauth2-custom-redirects-plugin
 procourse/procourse-installer
 procourse/procourse-static-pages
 rcfox/Discourse-Webhooks
