@@ -11,7 +11,6 @@ cfstras/discourse-konami
 Codecademy/discourse-codebytes-plugin
 cpradio/discourse-plugin-composer-help-button
 cpradio/discourse-plugin-imgflip
-cpradio/discourse-plugin-replygif
 cpradio/discourse-plugin-vb-emoticons
 cpradio/vb_emoji
 critcola/discourse-clyp-onebox
@@ -206,11 +205,9 @@ pfaffman/discourse-doi-resolver
 pmusaraj/discourse-onesignal
 PoloGT/abbreviation-discourse-plugin
 procourse/discourse-full-screen-videos-plugin
-procourse/procourse-installer
 procourse/procourse-static-pages
 rcfox/Discourse-Webhooks
 reallyreally/discourse-mailgun
-rux-pizza/discourse-awesome-bbcodes
 samsaffron/blog
 sekhat/discourse-yuml
 shivpkumar/Zendesk-Plugin
