@@ -7,6 +7,9 @@ gemfile do
   gem "mass_git_clone", "0.1.1"
 end
 
-repos = File.read("plugins.txt").split("\n")
-base_dir = File.join(__dir__, "plugins")
-MassGitClone.mass_clone(repo_list: repos, repo_base_dir: base_dir)
+FileUtils.rm_rf("#{__dir__}/plugins") # Old path
+%w[official third-party].each do |type|
+  repos = File.read("#{__dir__}/#{type}.txt").split("\n")
+  base_dir = File.join(__dir__, type)
+  MassGitClone.mass_clone(repo_list: repos, repo_base_dir: base_dir)
+end

@@ -16,7 +16,7 @@ cd all-the-plugins
 
 ### Contributing your own plugin
 
-If you have a plugin you would like included in the meta repo create a PR to add the repository to plugins.txt
+If you have a plugin you would like included in the meta repo create a PR to add the repository to third-party.txt
 
 Also, please make sure you publish your plugin at https://meta.discourse.org/c/plugin
 
@@ -25,11 +25,11 @@ Also, please make sure you publish your plugin at https://meta.discourse.org/c/p
 To update your local copies of plugins, run `./reset-all-repos`. The default branch of each repo will be checked out, reset to the latest commit on the origin, and all
 local changes will be discarded. Any stale directories under `./plugins` will be deleted.
 
-If you want a totally clean slate, `rm -rf ./plugins`, and then run `./reset-all-repos` again.
+If you want a totally clean slate, `rm -rf ./third-party ./official`, and then run `./reset-all-repos` again.
 
 ### Removing a plugin
 
-Delete the line from `plugins.txt` and commit your changes. To remove from your locally cloned repos, use `./reset-all-repos`.
+Delete the line from `third-party.txt` and commit your changes. To remove from your locally cloned repos, use `./reset-all-repos`.
 
 ### Update from meta script
 
