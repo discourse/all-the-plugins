@@ -8,7 +8,15 @@ gemfile do
 end
 
 FileUtils.rm_rf("#{__dir__}/plugins") # Old path
-%w[official third-party].each do |type|
+
+targets = %w[official third-party]
+
+if ARGV[0]
+  raise "Unknown target #{ARGV[0]}" unless targets.include?(ARGV[0])
+  targets = [ARGV[0]]
+end
+
+targets.each do |type|
   repos = File.read("#{__dir__}/#{type}.txt").split("\n")
   base_dir = File.join(__dir__, type)
   MassGitClone.mass_clone(repo_list: repos, repo_base_dir: base_dir)
