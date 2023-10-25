@@ -35,7 +35,6 @@ discourse/discourse-codebytes-plugin
 discourse/discourse-crowd
 discourse/discourse-data-explorer
 discourse/discourse-development-auth
-discourse/discourse-disorder
 discourse/discourse-docs
 discourse/discourse-email-short-date-format
 discourse/discourse-encrypt
@@ -74,7 +73,6 @@ discourse/discourse-math
 discourse/discourse-meteor
 discourse/discourse-microsoft-auth
 discourse/discourse-moderator-attention
-discourse/discourse-multi-reactions
 discourse/discourse-multilingual
 discourse/discourse-needs-love
 discourse/discourse-nested-posts
