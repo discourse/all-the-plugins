@@ -101,8 +101,6 @@ discourse/discourse-saml
 discourse/discourse-saved-searches
 discourse/discourse-shared-edits
 discourse/discourse-signatures
-discourse/discourse-site-report
-discourse/discourse-sitemap
 discourse/discourse-sketchup-3dwh-onebox
 discourse/discourse-sketchup-sso
 discourse/discourse-solved
