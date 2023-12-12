@@ -30,7 +30,6 @@ debtcollective/discourse-sentry
 discourse-league/dl-license-keys
 dtchau/discourse-plugin-autoplay
 Ebsy/discourse-nationalflags
-eriko/auto-archive
 eviltrout/trout_emoji
 fantasticfears/discourse-chinese-localization-pack
 fantasticfears/discourse-etiquette
