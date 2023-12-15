@@ -21,16 +21,12 @@ crob611/discourse-image-gallery
 danskdynamit/discourse-hot-topics
 danskdynamit/discourse-links-category
 davidtaylorhq/discourse-auto-suspend
-davidtaylorhq/discourse-category-lockdown
 davidtaylorhq/discourse-dev-login
-davidtaylorhq/discourse-simple-unread
 davidtaylorhq/discourse-telegram-notifications
-davidtaylorhq/discourse-whos-online
 debtcollective/discourse-sentry
 discourse-league/dl-license-keys
 dtchau/discourse-plugin-autoplay
 Ebsy/discourse-nationalflags
-eviltrout/trout_emoji
 fantasticfears/discourse-chinese-localization-pack
 fantasticfears/discourse-etiquette
 featheredtoast/discourse-pushover-notifications
@@ -84,6 +80,7 @@ netdeamon/discourse-googlebooks
 netdeamon/force-signin
 notriddle/discourse-shadowban
 nunof07/discourse-mumble
+paviliondev/discourse-category-lockdown
 paviliondev/discourse-custom-wizard
 paviliondev/discourse-events
 paviliondev/discourse-knowledge-base
