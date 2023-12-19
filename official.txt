@@ -15,7 +15,6 @@ discourse/discourse-auth-no-email
 discourse/discourse-auto-deactivate
 discourse/discourse-auto-lock-pms
 discourse/discourse-automation
-discourse/discourse-bbb
 discourse/discourse-bbcode
 discourse/discourse-bbcode-color
 discourse/discourse-bcc
