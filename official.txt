@@ -12,6 +12,7 @@ discourse/discourse-antivirus
 discourse/discourse-apple-auth
 discourse/discourse-assign
 discourse/discourse-auth-no-email
+discourse/discourse-authentication-validations
 discourse/discourse-auto-deactivate
 discourse/discourse-auto-lock-pms
 discourse/discourse-automation
