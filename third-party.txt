@@ -31,7 +31,6 @@ fantasticfears/discourse-chinese-localization-pack
 fantasticfears/discourse-etiquette
 featheredtoast/discourse-pushover-notifications
 featheredtoast/discourse-pwned-passwords
-gdpelican/babble
 gdpelican/mingle
 gdpelican/retort
 HMSAB/discourse-email-extraction
