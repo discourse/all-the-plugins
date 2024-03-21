@@ -32,7 +32,6 @@ discourse/discourse-chat-integration
 discourse/discourse-client-performance
 discourse/discourse-code-review
 discourse/discourse-codebytes-plugin
-discourse/discourse-crowd
 discourse/discourse-data-explorer
 discourse/discourse-deprecation-collector
 discourse/discourse-development-auth
