@@ -52,6 +52,7 @@ discourse/discourse-global-filter
 discourse/discourse-google-one-tap
 discourse/discourse-gradle-issue
 discourse/discourse-graphviz
+discourse/discourse-group-category-banner-ads
 discourse/discourse-group-membership-ip-block
 discourse/discourse-group-tag-associations
 discourse/discourse-group-tracker
