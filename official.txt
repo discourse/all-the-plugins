@@ -56,6 +56,7 @@ discourse/discourse-group-membership-ip-block
 discourse/discourse-group-tag-associations
 discourse/discourse-group-tracker
 discourse/discourse-hCaptcha
+discourse/discourse-instant-search
 discourse/discourse-intercom
 discourse/discourse-invite-tokens
 discourse/discourse-jira
