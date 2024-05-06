@@ -64,6 +64,7 @@ discourse/discourse-jwt
 discourse/discourse-kolide
 discourse/discourse-lazy-videos
 discourse/discourse-linkedin-auth
+discourse/discourse-livestream
 discourse/discourse-local-site-contacts
 discourse/discourse-login-with-amazon
 discourse/discourse-logster-rate-limit-checker
