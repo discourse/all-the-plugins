@@ -91,6 +91,7 @@ discourse/discourse-plugin-skeleton
 discourse/discourse-policy
 discourse/discourse-post-voting
 discourse/discourse-prepend-tags-in-topic-slug
+discourse/discourse-preset-topic-composer
 discourse/discourse-prioritize-generic-onebox
 discourse/discourse-prometheus
 discourse/discourse-prometheus-alert-receiver
