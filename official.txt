@@ -31,6 +31,7 @@ discourse/discourse-chat-integration
 discourse/discourse-client-performance
 discourse/discourse-code-review
 discourse/discourse-codebytes-plugin
+discourse/discourse-custom-topic-lists
 discourse/discourse-data-explorer
 discourse/discourse-deprecation-collector
 discourse/discourse-development-auth
@@ -74,7 +75,6 @@ discourse/discourse-marketo
 discourse/discourse-math
 discourse/discourse-meteor
 discourse/discourse-microsoft-auth
-discourse/discourse-moderator-attention
 discourse/discourse-multilingual
 discourse/discourse-needs-love
 discourse/discourse-nested-posts
