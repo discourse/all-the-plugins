@@ -3,7 +3,6 @@ discourse/discourse-adplugin
 discourse/discourse-affiliate
 discourse/discourse-ai
 discourse/discourse-akismet
-discourse/discourse-alert
 discourse/discourse-algolia
 discourse/discourse-amazon-sns
 discourse/discourse-animated-avatars
