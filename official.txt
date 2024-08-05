@@ -58,7 +58,6 @@ discourse/discourse-group-tracker
 discourse/discourse-hCaptcha
 discourse/discourse-instant-search
 discourse/discourse-intercom
-discourse/discourse-invite-tokens
 discourse/discourse-jira
 discourse/discourse-jwt
 discourse/discourse-kolide
