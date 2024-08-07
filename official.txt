@@ -55,7 +55,7 @@ discourse/discourse-group-category-banner-ads
 discourse/discourse-group-membership-ip-block
 discourse/discourse-group-tag-associations
 discourse/discourse-group-tracker
-discourse/discourse-hCaptcha
+discourse/discourse-hcaptcha
 discourse/discourse-instant-search
 discourse/discourse-intercom
 discourse/discourse-jira
