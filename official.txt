@@ -106,6 +106,7 @@ discourse/discourse-signatures
 discourse/discourse-sketchup-3dwh-onebox
 discourse/discourse-sketchup-sso
 discourse/discourse-solved
+discourse/discourse-solved-reminders-plugin
 discourse/discourse-staff-alias
 discourse/discourse-steam-login
 discourse/discourse-subscriptions
