@@ -115,7 +115,6 @@ discourse/discourse-tag-topic-user-device
 discourse/discourse-teambuild
 discourse/discourse-templates
 discourse/discourse-theme-creator
-discourse/discourse-tickets
 discourse/discourse-tooltips
 discourse/discourse-topic-noindex
 discourse/discourse-topic-voting
