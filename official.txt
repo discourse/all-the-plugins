@@ -1,4 +1,5 @@
 discourse/2024-performance-profiling-workshop
+discourse/ask-discourse-context
 discourse/discourse-activity-pub
 discourse/discourse-adplugin
 discourse/discourse-affiliate
