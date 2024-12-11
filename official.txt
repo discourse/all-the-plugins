@@ -50,7 +50,6 @@ discourse/discourse-geoblocking
 discourse/discourse-github
 discourse/discourse-github-user-infos-view
 discourse/discourse-github-verification
-discourse/discourse-global-filter
 discourse/discourse-google-one-tap
 discourse/discourse-gradle-issue
 discourse/discourse-graphviz
