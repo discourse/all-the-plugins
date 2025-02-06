@@ -39,7 +39,6 @@ discourse/discourse-development-auth
 discourse/discourse-doc-categories
 discourse/discourse-docs
 discourse/discourse-email-short-date-format
-discourse/discourse-encrypt
 discourse/discourse-extra-group-classes
 discourse/discourse-fingerprint
 discourse/discourse-folksy-image
