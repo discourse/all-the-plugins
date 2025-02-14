@@ -73,7 +73,6 @@ discourse/discourse-meteor
 discourse/discourse-microsoft-auth
 discourse/discourse-multilingual
 discourse/discourse-needs-love
-discourse/discourse-nested-posts
 discourse/discourse-newsletter-integration
 discourse/discourse-no-bump
 discourse/discourse-oauth2-basic
