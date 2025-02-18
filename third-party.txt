@@ -1,13 +1,7 @@
 acaporrini/discourse-auto-bookmarks
 Ahmedgagan/discourse-custom-trust-level
-AlexRabolin/modal-window
-algolia/discourse-algolia
 angusmcleod/discourse-header-search
-BeastNet/trust-level-groups
-berlindiamonds/discourse-sync-base
-bernd/discourse-slack-plugin
 bolariin/discourse-response-bot
-cfstras/discourse-konami
 Codecademy/discourse-codebytes-plugin
 cpradio/discourse-plugin-composer-help-button
 cpradio/discourse-plugin-imgflip
@@ -24,7 +18,6 @@ davidtaylorhq/discourse-auto-suspend
 davidtaylorhq/discourse-dev-login
 davidtaylorhq/discourse-telegram-notifications
 debtcollective/discourse-sentry
-discourse-league/dl-license-keys
 dtchau/discourse-plugin-autoplay
 Ebsy/discourse-nationalflags
 fantasticfears/discourse-chinese-localization-pack
@@ -43,7 +36,7 @@ jahan-ggn/discourse-notifier
 jannolii/discourse-topic-trade-buttons
 jgujgu/discourse-blocks
 jgujgu/discourse-guest-gate
-joebuhlig/discourse-mlm-daily-summary
+procourse/discourse-mlm-daily-summary
 jonmbake/discourse-ldap-auth
 JSey/reply-by-email-TL
 jsorchik/changetip-discourse
@@ -81,11 +74,11 @@ notriddle/discourse-shadowban
 nunof07/discourse-mumble
 paviliondev/discourse-category-lockdown
 paviliondev/discourse-custom-wizard
-paviliondev/discourse-events
+angusmcleod/discourse-events
 paviliondev/discourse-knowledge-base
 paviliondev/discourse-layouts
 paviliondev/discourse-legal-tools
-paviliondev/discourse-locations
+merefield/discourse-locations
 paviliondev/discourse-multilingual
 paviliondev/discourse-news
 paviliondev/discourse-ratings
@@ -123,8 +116,8 @@ unfoldingWord-dev/discourse-mermaid
 unixneo/discourse-container-names-with-gon
 unixneo/discourse-remove-canonical
 vikhyat/discourse-persona
-vinkas0/discourse-bbcode-lock
-vinkas0/discourse-facebook-onebox
+vinkashq/discourse-bbcode-lock
+vinkashq/discourse-facebook-onebox
 VinkasHQ/discourse-timeline
 VonLion/discourse-menu-icon
 worldismine/Duplicate-Notification-Terminator
