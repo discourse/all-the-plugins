@@ -27,7 +27,7 @@ def ensure_repo(title, topic_url)
   print "Add? (Y/n) "
   text = readline
 
-  $list << repo if text =~ /n/
+  $list << repo unless text =~ /n/
 
   puts "\n"
 end
