@@ -78,6 +78,7 @@ discourse/discourse-newsletter-integration
 discourse/discourse-no-bump
 discourse/discourse-oauth2-basic
 discourse/discourse-onboarding-banner
+discourse/discourse-open-graph
 discourse/discourse-openid-connect
 discourse/discourse-page-visits
 discourse/discourse-password-expiry
