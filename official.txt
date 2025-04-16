@@ -72,7 +72,6 @@ discourse/discourse-marketo
 discourse/discourse-math
 discourse/discourse-meteor
 discourse/discourse-microsoft-auth
-discourse/discourse-multilingual
 discourse/discourse-needs-love
 discourse/discourse-newsletter-integration
 discourse/discourse-no-bump
