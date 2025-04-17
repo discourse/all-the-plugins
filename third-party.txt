@@ -20,8 +20,6 @@ communiteq/discourse-private-topics
 communiteq/discourse-restrict-pms-to-group
 communiteq/discourse-user-response-times
 coopcreds/discourse-verifiable-credentials
-cpradio/discourse-plugin-composer-help-button
-cpradio/discourse-plugin-imgflip
 cpradio/discourse-plugin-vb-emoticons
 cpradio/vb_emoji
 critcola/discourse-clyp-onebox
@@ -160,7 +158,6 @@ sylque/discourse-home-page
 sylque/discourse-multilingual-post
 sylque/discpage
 sylque/docuss
-synweap15/discourse-voice-record
 techapj/discourse-custom-topic-button
 techapj/discourse-topic-group-button
 tgxworld/discourse-graphql
