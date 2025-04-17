@@ -58,8 +58,6 @@ iunctis/discourse-formatting-toolbar
 jahan-ggn/discourse-notifier
 jannolii/discourse-topic-trade-buttons
 jericson/discourse-contact-plugin
-jgujgu/discourse-blocks
-jgujgu/discourse-guest-gate
 jonmbake/discourse-ldap-auth
 JSey/reply-by-email-TL
 jsorchik/changetip-discourse
