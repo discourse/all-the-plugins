@@ -59,6 +59,7 @@ discourse/discourse-group-tracker
 discourse/discourse-hcaptcha
 discourse/discourse-intercom
 discourse/discourse-jira
+discourse/discourse-just-chat
 discourse/discourse-jwt
 discourse/discourse-kolide
 discourse/discourse-livestream
