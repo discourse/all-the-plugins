@@ -97,6 +97,7 @@ discourse/discourse-ratings
 discourse/discourse-reactions
 discourse/discourse-restricted-replies
 discourse/discourse-rewind
+discourse/discourse-route-blocker
 discourse/discourse-rss-polling
 discourse/discourse-salesforce
 discourse/discourse-saml
