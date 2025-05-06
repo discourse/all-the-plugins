@@ -147,12 +147,10 @@ singerscreations/discourse-stopforumspam
 sirideain/discourse-mark
 sman591/discourse-nntp-bridge
 snap-blocks/snapblocks-discourse
-spirobel/discourse-basic-editor
 spirobel/monero-discourse-subscriptions
 spirobel/projects
 spruceid/discourse-siwe-auth
 sudaraka94/discourse-opencollective-integration
-sudaraka94/preventing-malicious-linking-plugin
 sylque/discourse-a2a-bbcode
 sylque/discourse-home-page
 sylque/discourse-multilingual-post
