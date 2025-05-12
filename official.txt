@@ -25,7 +25,6 @@ discourse/discourse-cakeday
 discourse/discourse-calendar
 discourse/discourse-categories-suppressed
 discourse/discourse-category-experts
-discourse/discourse-cdn-experiment
 discourse/discourse-characters-required
 discourse/discourse-chart
 discourse/discourse-chat-integration
