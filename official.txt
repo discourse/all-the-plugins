@@ -64,7 +64,6 @@ discourse/discourse-livestream
 discourse/discourse-local-site-contacts
 discourse/discourse-login-client
 discourse/discourse-login-with-amazon
-discourse/discourse-logster-rate-limit-checker
 discourse/discourse-logster-transporter
 discourse/discourse-lti
 discourse/discourse-marketo
