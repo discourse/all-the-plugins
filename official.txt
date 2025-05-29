@@ -129,7 +129,6 @@ discourse/discourse-vk-auth
 discourse/discourse-watch-category-mcneel
 discourse/discourse-watched-word-exceptions
 discourse/discourse-whos-online
-discourse/discourse-wikimedia-auth
 discourse/discourse-yearly-review
 discourse/discourse-zendesk-plugin
 discourse/discourse-zoom
