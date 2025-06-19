@@ -62,7 +62,6 @@ discourse/discourse-jwt
 discourse/discourse-kolide
 discourse/discourse-livestream
 discourse/discourse-local-site-contacts
-discourse/discourse-login-client
 discourse/discourse-login-with-amazon
 discourse/discourse-logster-transporter
 discourse/discourse-lti
