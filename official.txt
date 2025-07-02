@@ -90,7 +90,6 @@ discourse/discourse-preset-topic-composer
 discourse/discourse-prioritize-generic-onebox
 discourse/discourse-prometheus
 discourse/discourse-prometheus-alert-receiver
-discourse/discourse-ratings
 discourse/discourse-reactions
 discourse/discourse-restricted-replies
 discourse/discourse-rewind
