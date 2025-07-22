@@ -1,8 +1,5 @@
 discourse/ask-discourse-context
 discourse/discourse-activity-pub
-discourse/discourse-adplugin
-discourse/discourse-affiliate
-discourse/discourse-ai
 discourse/discourse-akismet
 discourse/discourse-algolia
 discourse/discourse-amazon-sns
@@ -39,7 +36,6 @@ discourse/discourse-folksy-image
 discourse/discourse-follow
 discourse/discourse-fontawesome-pro
 discourse/discourse-geoblocking
-discourse/discourse-github
 discourse/discourse-github-user-infos-view
 discourse/discourse-github-verification
 discourse/discourse-google-one-tap
@@ -68,7 +64,6 @@ discourse/discourse-password-expiry
 discourse/discourse-perspective-api
 discourse/discourse-pirate-speak
 discourse/discourse-plugin-skeleton
-discourse/discourse-policy
 discourse/discourse-prepend-tags-in-topic-slug
 discourse/discourse-preset-topic-composer
 discourse/discourse-prioritize-generic-onebox
@@ -84,7 +79,6 @@ discourse/discourse-shared-edits
 discourse/discourse-signatures
 discourse/discourse-sketchup-3dwh-onebox
 discourse/discourse-sketchup-sso
-discourse/discourse-solved
 discourse/discourse-solved-reminders-plugin
 discourse/discourse-staff-alias
 discourse/discourse-steam-login
@@ -92,11 +86,9 @@ discourse/discourse-surveys
 discourse/discourse-tag-by-group
 discourse/discourse-tag-topic-user-device
 discourse/discourse-teambuild
-discourse/discourse-templates
 discourse/discourse-theme-creator
 discourse/discourse-tooltips
 discourse/discourse-topic-noindex
-discourse/discourse-topic-voting
 discourse/discourse-translator
 discourse/discourse-tudiabetes
 discourse/discourse-unhandled-tagger
