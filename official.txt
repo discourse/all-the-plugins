@@ -15,7 +15,6 @@ discourse/discourse-bbcode-color
 discourse/discourse-bcc
 discourse/discourse-brightcove
 discourse/discourse-browser-history
-discourse/discourse-cakeday
 discourse/discourse-categories-suppressed
 discourse/discourse-category-experts
 discourse/discourse-characters-required
