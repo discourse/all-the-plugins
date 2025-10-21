@@ -4,6 +4,7 @@ discourse/discourse-akismet
 discourse/discourse-algolia
 discourse/discourse-amazon-sns
 discourse/discourse-animated-avatars
+discourse/discourse-anon-usernames
 discourse/discourse-anonymous-moderators
 discourse/discourse-antivirus
 discourse/discourse-auth-no-email
