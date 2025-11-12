@@ -96,7 +96,6 @@ discourse/discourse-unlock
 discourse/discourse-url-filters
 discourse/discourse-user-card-badges
 discourse/discourse-video
-discourse/discourse-vk-auth
 discourse/discourse-watch-category-mcneel
 discourse/discourse-watched-word-exceptions
 discourse/discourse-whos-online
