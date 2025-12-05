@@ -70,7 +70,6 @@ discourse/discourse-prioritize-generic-onebox
 discourse/discourse-prometheus
 discourse/discourse-prometheus-alert-receiver
 discourse/discourse-restricted-replies
-discourse/discourse-rewind
 discourse/discourse-route-blocker
 discourse/discourse-salesforce
 discourse/discourse-saml
