@@ -14,6 +14,7 @@ discourse/discourse-auto-lock-pms
 discourse/discourse-bbcode
 discourse/discourse-bbcode-color
 discourse/discourse-bcc
+discourse/discourse-bevy-plugin
 discourse/discourse-brightcove
 discourse/discourse-browser-history
 discourse/discourse-categories-suppressed
@@ -48,7 +49,6 @@ discourse/discourse-intercom
 discourse/discourse-jira
 discourse/discourse-just-chat
 discourse/discourse-jwt
-discourse/discourse-kolide
 discourse/discourse-livestream
 discourse/discourse-local-site-contacts
 discourse/discourse-logster-transporter
