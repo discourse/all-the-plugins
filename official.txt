@@ -47,6 +47,7 @@ discourse/discourse-group-tag-associations
 discourse/discourse-group-tracker
 discourse/discourse-intercom
 discourse/discourse-jira
+discourse/discourse-jit-composer-warning
 discourse/discourse-just-chat
 discourse/discourse-jwt
 discourse/discourse-livestream
