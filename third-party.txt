@@ -131,6 +131,7 @@ pfaffman/discourse-doi-resolver
 phw/discourse-musicbrainz-onebox
 pmusaraj/discourse-onesignal
 PoloGT/abbreviation-discourse-plugin
+pranciskus/discourse-openclaw
 procourse/discourse-full-screen-videos-plugin
 procourse/discourse-mlm-daily-summary
 procourse/procourse-static-pages
