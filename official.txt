@@ -15,6 +15,7 @@ discourse/discourse-bbcode
 discourse/discourse-bbcode-color
 discourse/discourse-bcc
 discourse/discourse-bevy-plugin
+discourse/discourse-boosts
 discourse/discourse-brightcove
 discourse/discourse-browser-history
 discourse/discourse-categories-suppressed
