@@ -59,7 +59,6 @@ discourse/discourse-logster-transporter
 discourse/discourse-marketo
 discourse/discourse-meteor
 discourse/discourse-needs-love
-discourse/discourse-nested-replies
 discourse/discourse-newsletter-integration
 discourse/discourse-no-bump
 discourse/discourse-onboarding-banner
