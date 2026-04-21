@@ -25,6 +25,7 @@ discourse/discourse-chart
 discourse/discourse-client-performance
 discourse/discourse-code-review
 discourse/discourse-codebytes-plugin
+discourse/discourse-custom-default-sidebars
 discourse/discourse-custom-topic-lists
 discourse/discourse-default-featured-topic
 discourse/discourse-deprecation-collector
