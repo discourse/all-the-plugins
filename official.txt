@@ -90,7 +90,6 @@ discourse/discourse-suggested-edits
 discourse/discourse-surveys
 discourse/discourse-tag-by-group
 discourse/discourse-tag-topic-user-device
-discourse/discourse-teambuild
 discourse/discourse-theme-creator
 discourse/discourse-tooltips
 discourse/discourse-topic-noindex
