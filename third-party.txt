@@ -75,6 +75,9 @@ ligthyear/discourse-plugin-pm-button
 liliakai/discourse-chargebee
 literatecomputing/discourse-add-new-posts-to-summary
 literatecomputing/discourse-google-group-link
+magicball-network/discourse-darkvisitors
+magicball-network/discourse-indisposable-email
+magicball-network/discourse-kofi
 marcoceppi/discourse-ubuntu-sso
 matthieu-lapeyre/wp-discourse-topic-integration
 mcwumbly/discourse-slackdoor
