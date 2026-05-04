@@ -135,6 +135,7 @@ pranciskus/discourse-openclaw
 procourse/discourse-full-screen-videos-plugin
 procourse/discourse-mlm-daily-summary
 procourse/procourse-static-pages
+proxytracer/discourse-proxytracer
 rcfox/Discourse-Webhooks
 reallyreally/discourse-mailgun
 Regalijan/discourse-codeberg-auth
