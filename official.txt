@@ -25,6 +25,7 @@ discourse/discourse-chart
 discourse/discourse-client-performance
 discourse/discourse-code-review
 discourse/discourse-codebytes-plugin
+discourse/discourse-command-center
 discourse/discourse-custom-default-sidebars
 discourse/discourse-custom-topic-lists
 discourse/discourse-default-featured-topic
@@ -61,6 +62,7 @@ discourse/discourse-meteor
 discourse/discourse-needs-love
 discourse/discourse-newsletter-integration
 discourse/discourse-no-bump
+discourse/discourse-notification-state-tracker
 discourse/discourse-onboarding-banner
 discourse/discourse-open-graph
 discourse/discourse-page-visits
