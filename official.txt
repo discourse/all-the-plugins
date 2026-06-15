@@ -97,7 +97,6 @@ discourse/discourse-topic-noindex
 discourse/discourse-translator
 discourse/discourse-tudiabetes
 discourse/discourse-unhandled-tagger
-discourse/discourse-unlock
 discourse/discourse-url-filters
 discourse/discourse-user-card-badges
 discourse/discourse-video
@@ -108,5 +107,6 @@ discourse/discourse-yearly-review
 discourse/discourse-zoom
 discourse/docker_manager
 discourse/folksy-store-name
+discourse/resenha
 discourse/twitter-profile-link
 discourse/twitter-topic-group-button
