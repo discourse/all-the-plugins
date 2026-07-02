@@ -53,7 +53,6 @@ discourse/discourse-jit-composer-warning
 discourse/discourse-just-chat
 discourse/discourse-jwt
 discourse/discourse-kanban
-discourse/discourse-livestream
 discourse/discourse-local-site-contacts
 discourse/discourse-logster-transporter
 discourse/discourse-marketo
