@@ -33,7 +33,6 @@ dappy-studio/gitcoin-passport-discourse-plugin
 davidtaylorhq/discourse-auto-suspend
 davidtaylorhq/discourse-dev-login
 davidtaylorhq/discourse-telegram-notifications
-debtcollective/discourse-sentry
 dsims/discourse-emoji-letter-avatar
 dsims/discourse-highest-post
 dtchau/discourse-plugin-autoplay
@@ -91,7 +90,6 @@ merefield/discourse-tc-bars
 merefield/discourse-user-network-vis
 merefield/discourse-word-cloud
 merefield/discourse-process-manager
-MiguelAngelLV/steamuser-onebox
 Mittineague/discourse-kinder-guardian
 Mittineague/discourse-plugin-outlet-locations
 mlamarque/algoliasearch-discourse
@@ -124,7 +122,6 @@ paviliondev/discourse-news
 paviliondev/discourse-question-answer
 paviliondev/discourse-ratings
 paviliondev/discourse-tickets
-paviliondev/discourse-topic-previews
 paviliondev/pavilion-landing-theme
 pfaffman/discourse-allow-pm-to-staff
 pfaffman/discourse-avatar-name-first-letter
