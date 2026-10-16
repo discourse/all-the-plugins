@@ -78,6 +78,7 @@ discourse/discourse-route-blocker
 discourse/discourse-salesforce
 discourse/discourse-saml
 discourse/discourse-saved-searches
+discourse/discourse-scoped-mentions
 discourse/discourse-shared-edits
 discourse/discourse-signatures
 discourse/discourse-sketchup-3dwh-onebox
