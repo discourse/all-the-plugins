@@ -27,6 +27,7 @@ critcola/discourse-overwatch-hero-icons
 critcola/discourse-playstv-onebox
 critcola/discourse-post-abbreviations
 crob611/discourse-image-gallery
+DaniW42/discourse-ballotage
 danskdynamit/discourse-hot-topics
 danskdynamit/discourse-links-category
 dappy-studio/gitcoin-passport-discourse-plugin
