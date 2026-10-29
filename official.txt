@@ -52,7 +52,6 @@ discourse/discourse-jira
 discourse/discourse-jit-composer-warning
 discourse/discourse-just-chat
 discourse/discourse-jwt
-discourse/discourse-kanban
 discourse/discourse-local-site-contacts
 discourse/discourse-logster-transporter
 discourse/discourse-marketo
@@ -74,7 +73,6 @@ discourse/discourse-prioritize-generic-onebox
 discourse/discourse-prometheus
 discourse/discourse-prometheus-alert-receiver
 discourse/discourse-restricted-replies
-discourse/discourse-route-blocker
 discourse/discourse-salesforce
 discourse/discourse-saml
 discourse/discourse-saved-searches
